@@ -1,3 +1,10 @@
+## please put a comment
+## this program is...
+## input file is..
+## output file is ...
+## date 2018. 1. 26
+## by HWPark at CSBL, Korea University
+
 #|F| |ORF| |(F)| |P| |(P)| |[ORF]| |[F]| |[P]|
 
 import time
