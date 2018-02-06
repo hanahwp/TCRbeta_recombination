@@ -7,8 +7,7 @@ from Bio.Alphabet import SingleLetterAlphabet
 from data_arrange import *
 
 def extract_data(rdir):
-    directory = [os.getcwd(), '/extdata']
-    final_directory="".join(directory)
+    final_directory = makerdir('/extdata')
     if not os.path.exists(final_directory):
         os.makedirs(final_directory)
     rawdata = list(SeqIO.parse(rdir, "fasta"))

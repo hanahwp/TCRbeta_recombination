@@ -1,6 +1,12 @@
 
 from collections import Counter
 from collections import defaultdict as ddict
+import os
+
+def makerdir(insidetcr):
+    directory = [os.getcwd(), insidetcr]
+    final_directory="".join(directory)
+    return final_directory
 
 
 def rdict(key,value,aDict):

@@ -3,10 +3,9 @@ from random import choice
 from data_arrange import *
 
 base = ("a", "t", "g", "c")
-v_insmax = input("Type in the number of maximum insertion for VD junction: ")
-j_insmax = input("Type in the number of maximum insertion for DJ junction: ")
 
-def recombinate(TRBLV, TRBD, TRBJ, TRBC):
+
+def recombinate(TRBLV, TRBD, TRBJ, TRBC, v_insmax, j_insmax, vdel, jdel):
     #choose 1or2
     n = random.randint(0,1)
     D = TRBD[n] 
@@ -34,11 +33,11 @@ def recombinate(TRBLV, TRBD, TRBJ, TRBC):
 
     
     #deletion
-    vdel_3 = random.randint(0,10)
-    jdel_5 = random.randint(0,10)
-    ddel_3 = random.randint(0,8)
-    ddel_5 = random.randint(0,8)
-
+    vdel_3 = random.randint(0,vdel)
+    jdel_5 = random.randint(0,jdel)
+    ddel_3 = random.randint(0,len(dreg[2])/2)
+    ddel_5 = random.randint(0,len(dreg[2])/2)
+    
     #insertion
     vd_insert = "".join([choice(base) for i in  range(random.randint(0,v_insmax))])
     dj_insert = "".join([choice(base) for i in  range(random.randint(0,j_insmax))])
@@ -47,7 +46,7 @@ def recombinate(TRBLV, TRBD, TRBJ, TRBC):
     recomb_assno= vreg[0]+";"+dreg[0]+";"+jreg[0]+";"+creg[0]
     recomb_name= vreg[1]+";"+dreg[1]+";"+jreg[1]+";"+creg[1] 
     recomb_seq= vreg[2][:len(vreg[2])-vdel_3]+vd_insert+dreg[2][ddel_5:-ddel_3]+dj_insert+jreg[2][jdel_5:]+creg[2]
-
+    
 
         
     
@@ -71,14 +70,14 @@ def checkseq((recomb_assno, recomb_name, recomb_seq, aa), tcrb, nsense, frameout
     #assume that shifted frame(not using the conventional stop codon) is degraded
     if '*' in aa:
 
-        keynamevar_dict("%s|%s"%(recomb_assno, recomb_name),str(recomb_seq), nsense )
+        keynamevar_dict("%s|%s"%(recomb_assno, recomb_name),str(aa), nsense )
         return "nsense"
     else:
         if (len(recomb_seq) % 3) == 0:
-            keynamevar_dict("%s|%s"%(recomb_assno, recomb_name),str(recomb_seq),tcrb )
+            keynamevar_dict("%s|%s"%(recomb_assno, recomb_name),str(aa),tcrb )
             return "tcrb"
         else:
-            keynamevar_dict("%s|%s"%(recomb_assno, recomb_name),str(recomb_seq),frameout )
+            keynamevar_dict("%s|%s"%(recomb_assno, recomb_name),str(aa),frameout )
             return "frameout"
             
 
