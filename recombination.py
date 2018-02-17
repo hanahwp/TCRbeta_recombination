@@ -1,83 +1,94 @@
 import random
 from random import choice
 from data_arrange import *
+from gene_arrange import find_cysindex, find_pheindex
 
 base = ("a", "t", "g", "c")
 
 
-def recombinate(TRBLV, TRBD, TRBJ, TRBC, v_insmax, j_insmax, vdel, jdel):
-    #choose 1or2
+def recomb_n_check(TRBLV, TRBD, TRBJ, TRBC, v_insmax, j_insmax, vdel, jdel, cys2, jphe):
+    #choose btw TRBx1 and TRBx2
     n = random.randint(0,1)
     D = TRBD[n] 
     J = TRBJ[n]
     C = TRBC[n]
     V = TRBLV[0]
     
-    #choose gene
+    #choose a gene
     vgene = V[choice(V.keys())]
     dgene = D[choice(D.keys())]
     jgene = J[choice(J.keys())]
     cgene = C[choice(C.keys())]
 
-    #choose allele
+    #choose an allele
     call=  choice(cgene)
     dall = choice(dgene)
     jall = choice(jgene)
     vall = choice(vgene)
 
     #get accesssion no., allele name, and seq
-    creg  = [call.id[:6], call.id[call.id.find('TRB'):call.id.find('*')+3], call.seq]
-    dreg  = [dall.id[:6], dall.id[dall.id.find('TRB'):dall.id.find('*')+3], dall.seq]
-    jreg  = [jall.id[:6], jall.id[jall.id.find('TRB'):jall.id.find('*')+3], jall.seq]
-    vreg  = [vall.id[:6], vall.id[vall.id.find('TRB'):vall.id.find('*')+3], vall.seq]
+    creg  = {
+        "access": call.id[:call.id.find("|")],
+        "name" : call.id[call.id.find('TRB'):call.id.find('*')+3],
+        "seq": call.seq
+        }
+    dreg  = {
+        "access": dall.id[:call.id.find("|")],
+        "name": dall.id[dall.id.find('TRB'):dall.id.find('*')+3],
+        "seq": dall.seq
+        }
+    jreg  = {
+        "access":jall.id[:call.id.find("|")],
+        "name": jall.id[jall.id.find('TRB'):jall.id.find('*')+3],
+        "seq":jall.seq
+        }
+    vreg  = {
+        "access":vall.id[:call.id.find("|")],
+        "name":vall.id[vall.id.find('TRB'):vall.id.find('*')+3],
+        "seq":vall.seq
+        }
 
-    
-    #deletion
+    #number of nucleotide deletion
     vdel_3 = random.randint(0,vdel)
     jdel_5 = random.randint(0,jdel)
-    ddel_3 = random.randint(0,len(dreg[2])/2)
-    ddel_5 = random.randint(0,len(dreg[2])/2)
+    ddel_3 = random.randint(0,len(dreg["seq"])/2)
+    ddel_5 = random.randint(0,len(dreg["seq"])/2)
     
-    #insertion
+    #make nucleotide insertion sequence
     vd_insert = "".join([choice(base) for i in  range(random.randint(0,v_insmax))])
     dj_insert = "".join([choice(base) for i in  range(random.randint(0,j_insmax))])
 
+    recomb=dict()
     #recombination
-    recomb_assno= vreg[0]+";"+dreg[0]+";"+jreg[0]+";"+creg[0]
-    recomb_name= vreg[1]+";"+dreg[1]+";"+jreg[1]+";"+creg[1] 
-    recomb_seq= vreg[2][:len(vreg[2])-vdel_3]+vd_insert+dreg[2][ddel_5:-ddel_3]+dj_insert+jreg[2][jdel_5:]+creg[2]
-    
-
-        
-    
-    # translate
-    aa = recomb_seq.translate()
-    if aa[0] != "M":
-            print recomb_name, "\n", aa, "\n", recomb_seq
-            print "\nV before deletion:\n", vreg[2]
-            print "deleted amount:", vdel_3
-            print "V:\n", vreg[2][:len(vreg[2])-vdel_3]
-            print "\nINS VD:", vd_insert
-            print "D:", dreg[2][ddel_5:-ddel_3]
-            print "INS DJ:", dj_insert
-            print "JC:", jreg[2][jdel_5:]+creg[2], "\n\n"
-
-    return recomb_assno, recomb_name, recomb_seq, aa
-
-
-                                    
-def checkseq((recomb_assno, recomb_name, recomb_seq, aa), tcrb, nsense, frameout):
-    #assume that shifted frame(not using the conventional stop codon) is degraded
-    if '*' in aa:
-
-        keynamevar_dict("%s|%s"%(recomb_assno, recomb_name),str(aa), nsense )
-        return "nsense"
-    else:
-        if (len(recomb_seq) % 3) == 0:
-            keynamevar_dict("%s|%s"%(recomb_assno, recomb_name),str(aa),tcrb )
-            return "tcrb"
+    recomb["assno"]= vreg["access"]+";"+dreg["access"]+";"+jreg["access"]+";"+creg["access"]
+    recomb["name"]= vreg["name"]+";"+dreg["name"]+";"+jreg["name"]+";"+creg["name"] 
+    recomb["seq"]= vreg["seq"][:len(vreg["seq"])-vdel_3]+vd_insert+dreg["seq"][ddel_5:-ddel_3]+dj_insert+jreg["seq"][jdel_5:]+creg["seq"]
+  
+    #find V-2nd Cys index
+    cysindex = find_cysindex(vall, cys2)
+    pheindex = find_pheindex(jall, jphe)
+    #if V-Cys and J-Phe is not in the sequence, consider it as unexpressed(unconserved)
+    if (cysindex and pheindex) != None:
+        if cysindex+3+1<=len(vall.seq[:len(vall.seq)-vdel_3]) and pheindex+1>=jdel_5:
+            aa = recomb["seq"].translate()  #if V-Cys or J-Phe exists, translate            
+            if '*' in aa:
+                return recomb, "nsense"
+            else:
+                #if V-Cys exists, it means V has been translated inframe
+                if (len(recomb["seq"]) % 3) == 0:
+                    m =  jreg["seq"][pheindex:].translate()
+                    n  = len(call.seq)+len(jreg["seq"][pheindex:])
+#                    print "\n",m, "\n",aa[-int(round(n/3))-4:-int(round(len(call.seq)/3))+4], "\n",vall.id,dall.id,jall.id, call.id,"\n", aa
+                    if m in aa[-int(round(n/3))-4:-int(round(len(call.seq)/3))+4]:
+                        return recomb, "tcrb"
+                        print "4"
+                    else:
+                        return recomb, "frameout"   #if J-phe is not inframe, it is unexpressed(frameout for now)
+                        print "5"
+                else:
+                    return recomb, "frameout"    #assume that shifted frame(not using the usual stop codon) is degraded
         else:
-            keynamevar_dict("%s|%s"%(recomb_assno, recomb_name),str(aa),frameout )
-            return "frameout"
-            
+            return recomb, "unconserved"
+    else:
+        return recomb, "unconserved" 
 
