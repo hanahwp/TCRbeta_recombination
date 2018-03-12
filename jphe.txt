@@ -1,0 +1,2268 @@
+>AB011247.1|TRBJ2-3*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AB011248.1|TRBJ1-1*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AB011249.1|TRBJ2-1*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AB011250.1|TRBJ2-7*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttc
+>AB011251.1|TRBJ2-1*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttc
+>AB011252.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AB011253.1|TRBJ2-6*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AB164057.1|TRBJ2-7*01|Homo sapiens||J-PHE|412..414|3 nt|1|||||3+0=3||
+ttc
+>AB164621.1|TRBJ2-5*01|Homo sapiens||J-PHE|364..366|3 nt|1|||||3+0=3||
+ttc
+>AB305804.1|TRBJ2-1*01|Homo sapiens||J-PHE|378..380|3 nt|1|||||3+0=3||
+ttc
+>AB305809.1|TRBJ2-7*01|Homo sapiens||J-PHE|390..392|3 nt|1|||||3+0=3||
+ttc
+>AB305812.1|TRBJ2-7*01|Homo sapiens||J-PHE|322..324|3 nt|1|||||3+0=3||
+ttc
+>AB305813.1|TRBJ1-1*01|Homo sapiens||J-PHE|391..393|3 nt|1|||||3+0=3||
+ttt
+>AB305816.1|TRBJ2-7*01|Homo sapiens||J-PHE|391..393|3 nt|1|||||3+0=3||
+ttc
+>AB305817.1|TRBJ1-4*01|Homo sapiens||J-PHE|387..389|3 nt|1|||||3+0=3||
+ttt
+>AB305819.1|TRBJ2-3*01|Homo sapiens||J-PHE|389..391|3 nt|1|||||3+0=3||
+ttt
+>AB305820.1|TRBJ2-3*01|Homo sapiens||J-PHE|414..416|3 nt|1|||||3+0=3||
+ttt
+>AB305821.1|TRBJ2-7*01|Homo sapiens||J-PHE|391..393|3 nt|1|||||3+0=3||
+ttc
+>AB305825.1|TRBJ2-1*01|Homo sapiens||J-PHE|341..343|3 nt|1|||||3+0=3||
+ttc
+>AB305826.1|TRBJ1-5*01|Homo sapiens||J-PHE|459..461|3 nt|1|||||3+0=3||
+ttt
+>AB305828.1|TRBJ2-1*01|Homo sapiens||J-PHE|439..441|3 nt|1|||||3+0=3||
+ttc
+>AB305831.1|TRBJ1-1*01|Homo sapiens||J-PHE|388..390|3 nt|1|||||3+0=3||
+ttt
+>AB305834.1|TRBJ2-5*01|Homo sapiens||J-PHE|247..249|3 nt|1|||||3+0=3||
+ttc
+>AB305835.1|TRBJ2-3*01|Homo sapiens||J-PHE|361..363|3 nt|1|||||3+0=3||
+ttt
+>AB305838.1|TRBJ1-2*01|Homo sapiens||J-PHE|153..155|3 nt|1|||||3+0=3||
+ttc
+>AB305840.1|TRBJ1-4*01|Homo sapiens||J-PHE|386..388|3 nt|1|||||3+0=3||
+ttt
+>AB305844.1|TRBJ2-1*01|Homo sapiens||J-PHE|387..389|3 nt|1|||||3+0=3||
+ttc
+>AB305846.1|TRBJ1-2*01|Homo sapiens||J-PHE|445..447|3 nt|1|||||3+0=3||
+ttc
+>AB305851.1|TRBJ2-3*01|Homo sapiens||J-PHE|307..309|3 nt|1|||||3+0=3||
+ttt
+>AB305854.1|TRBJ2-1*01|Homo sapiens||J-PHE|408..410|3 nt|1|||||3+0=3||
+ttc
+>AB305856.1|TRBJ2-2*01|Homo sapiens||J-PHE|390..392|3 nt|1|||||3+0=3||
+ttt
+>AB305862.1|TRBJ2-3*01|Homo sapiens||J-PHE|383..385|3 nt|1|||||3+0=3||
+ttt
+>AB305863.1|TRBJ2-3*01|Homo sapiens||J-PHE|383..385|3 nt|1|||||3+0=3||
+ttt
+>AB305867.1|TRBJ2-1*01|Homo sapiens||J-PHE|415..417|3 nt|1|||||3+0=3||
+ttc
+>AB305873.1|TRBJ1-2*01|Homo sapiens||J-PHE|318..320|3 nt|1|||||3+0=3||
+ttc
+>AB305874.1|TRBJ2-4*01|Homo sapiens||J-PHE|227..229|3 nt|1|||||3+0=3||
+ttc
+>AB305878.1|TRBJ2-6*01|Homo sapiens||J-PHE|352..354|3 nt|1|||||3+0=3||
+ttc
+>AB305885.1|TRBJ1-5*01|Homo sapiens||J-PHE|395..397|3 nt|1|||||3+0=3||
+ttt
+>AB305888.1|TRBJ2-1*01|Homo sapiens||J-PHE|400..402|3 nt|1|||||3+0=3||
+ttc
+>AB305890.1|TRBJ2-3*01|Homo sapiens||J-PHE|297..299|3 nt|1|||||3+0=3||
+ttt
+>AB305891.1|TRBJ2-1*01|Homo sapiens||J-PHE|508..510|3 nt|1|||||3+0=3||
+ttc
+>AB305892.1|TRBJ2-7*01|Homo sapiens||J-PHE|462..464|3 nt|1|||||3+0=3||
+ttc
+>AB305893.1|TRBJ1-2*01|Homo sapiens||J-PHE|387..389|3 nt|1|||||3+0=3||
+ttc
+>AB305894.1|TRBJ2-7*01|Homo sapiens||J-PHE|470..472|3 nt|1|||||3+0=3||
+ttc
+>AB305898.1|TRBJ2-2*01|Homo sapiens||J-PHE|371..373|3 nt|1|||||3+0=3||
+ttt
+>AB305903.1|TRBJ1-1*01|Homo sapiens||J-PHE|185..187|3 nt|1|||||3+0=3||
+ttt
+>AB305906.1|TRBJ2-7*01|Homo sapiens||J-PHE|372..374|3 nt|1|||||3+0=3||
+ttc
+>AB305907.1|TRBJ1-6*01|Homo sapiens||J-PHE|362..364|3 nt|1|||||3+0=3||
+ttt
+>AB305908.1|TRBJ2-7*01|Homo sapiens||J-PHE|399..401|3 nt|1|||||3+0=3||
+ttc
+>AB305910.1|TRBJ2-7*01|Homo sapiens||J-PHE|423..425|3 nt|1|||||3+0=3||
+ttc
+>AB305920.1|TRBJ1-6*01|Homo sapiens||J-PHE|475..477|3 nt|1|||||3+0=3||
+ttt
+>AB305923.1|TRBJ1-2*01|Homo sapiens||J-PHE|401..403|3 nt|1|||||3+0=3||
+ttc
+>AB305925.1|TRBJ1-2*01|Homo sapiens||J-PHE|406..408|3 nt|1|||||3+0=3||
+ttc
+>AB305932.1|TRBJ1-1*01|Homo sapiens||J-PHE|400..402|3 nt|1|||||3+0=3||
+ttt
+>AB305933.1|TRBJ2-1*01|Homo sapiens||J-PHE|369..371|3 nt|1|||||3+0=3||
+ttc
+>AB305939.1|TRBJ1-5*01|Homo sapiens||J-PHE|416..418|3 nt|1|||||3+0=3||
+ttt
+>AB305940.1|TRBJ2-1*01|Homo sapiens||J-PHE|542..544|3 nt|1|||||3+0=3||
+ttc
+>AB305942.1|TRBJ2-1*01|Homo sapiens||J-PHE|495..497|3 nt|1|||||3+0=3||
+ttc
+>AB305944.1|TRBJ2-7*01|Homo sapiens||J-PHE|374..376|3 nt|1|||||3+0=3||
+ttc
+>AB305945.1|TRBJ2-4*01|Homo sapiens||J-PHE|405..407|3 nt|1|||||3+0=3||
+ttc
+>AB305951.1|TRBJ2-5*01|Homo sapiens||J-PHE|389..391|3 nt|1|||||3+0=3||
+ttc
+>AB305957.1|TRBJ2-5*01|Homo sapiens||J-PHE|415..417|3 nt|1|||||3+0=3||
+ttc
+>AB305959.1|TRBJ1-2*01|Homo sapiens||J-PHE|404..406|3 nt|1|||||3+0=3||
+ttc
+>AB305968.1|TRBJ1-5*01|Homo sapiens||J-PHE|403..405|3 nt|1|||||3+0=3||
+ttt
+>AB305969.1|TRBJ2-1*01|Homo sapiens||J-PHE|403..405|3 nt|1|||||3+0=3||
+ttc
+>AB305991.1|TRBJ2-1*01|Homo sapiens||J-PHE|397..399|3 nt|1|||||3+0=3||
+ttc
+>AB305992.1|TRBJ2-3*01|Homo sapiens||J-PHE|430..432|3 nt|1|||||3+0=3||
+ttt
+>AB305998.1|TRBJ2-7*01|Homo sapiens||J-PHE|408..410|3 nt|1|||||3+0=3||
+ttc
+>AB306134.1|TRBJ1-4*01|Homo sapiens||J-PHE|417..419|3 nt|1|||||3+0=3||
+ttt
+>AB306140.1|TRBJ2-2*01|Homo sapiens||J-PHE|368..370|3 nt|1|||||3+0=3||
+ttt
+>AB306147.1|TRBJ2-2*01|Homo sapiens||J-PHE|576..578|3 nt|1|||||3+0=3||
+ttt
+>AB306149.1|TRBJ2-7*01|Homo sapiens||J-PHE|420..422|3 nt|1|||||3+0=3||
+ttc
+>AB306152.1|TRBJ2-1*01|Homo sapiens||J-PHE|267..269|3 nt|1|||||3+0=3||
+ttc
+>AB306153.1|TRBJ2-5*01|Homo sapiens||J-PHE|403..405|3 nt|1|||||3+0=3||
+ttc
+>AB306157.1|TRBJ1-1*01|Homo sapiens||J-PHE|276..278|3 nt|1|||||3+0=3||
+ttt
+>AB306158.1|TRBJ2-4*01|Homo sapiens||J-PHE|532..534|3 nt|1|||||3+0=3||
+ttc
+>AB306160.1|TRBJ2-3*01|Homo sapiens||J-PHE|456..458|3 nt|1|||||3+0=3||
+ttt
+>AB306163.1|TRBJ2-7*01|Homo sapiens||J-PHE|381..383|3 nt|1|||||3+0=3||
+ttc
+>AB306165.1|TRBJ2-2*01|Homo sapiens||J-PHE|429..431|3 nt|1|||||3+0=3||
+ttt
+>AB306169.1|TRBJ2-1*01|Homo sapiens||J-PHE|393..395|3 nt|1|||||3+0=3||
+ttc
+>AB306174.1|TRBJ2-5*01|Homo sapiens||J-PHE|388..390|3 nt|1|||||3+0=3||
+ttc
+>AB306176.1|TRBJ2-5*01|Homo sapiens||J-PHE|420..422|3 nt|1|||||3+0=3||
+ttc
+>AB306177.1|TRBJ2-7*01|Homo sapiens||J-PHE|412..414|3 nt|1|||||3+0=3||
+ttc
+>AB306179.1|TRBJ2-2*01|Homo sapiens||J-PHE|421..423|3 nt|1|||||3+0=3||
+ttt
+>AB306183.1|TRBJ2-3*01|Homo sapiens||J-PHE|398..400|3 nt|1|||||3+0=3||
+ttt
+>AB306190.1|TRBJ2-1*01|Homo sapiens||J-PHE|396..398|3 nt|1|||||3+0=3||
+ttc
+>AB306193.1|TRBJ2-1*01|Homo sapiens||J-PHE|385..387|3 nt|1|||||3+0=3||
+ttc
+>AB306194.1|TRBJ1-5*01|Homo sapiens||J-PHE|336..338|3 nt|1|||||3+0=3||
+ttt
+>AB306195.1|TRBJ2-7*01|Homo sapiens||J-PHE|399..401|3 nt|1|||||3+0=3||
+ttc
+>AB306196.1|TRBJ1-1*01|Homo sapiens||J-PHE|413..415|3 nt|1|||||3+0=3||
+ttt
+>AB306197.1|TRBJ2-3*01|Homo sapiens||J-PHE|331..333|3 nt|1|||||3+0=3||
+ttt
+>AB306199.1|TRBJ2-7*01|Homo sapiens||J-PHE|392..394|3 nt|1|||||3+0=3||
+ttc
+>AB306201.1|TRBJ2-1*01|Homo sapiens||J-PHE|422..424|3 nt|1|||||3+0=3||
+ttc
+>AB306203.1|TRBJ1-5*01|Homo sapiens||J-PHE|415..417|3 nt|1|||||3+0=3||
+ttt
+>AB306204.1|TRBJ2-5*01|Homo sapiens||J-PHE|400..402|3 nt|1|||||3+0=3||
+ttc
+>AB306211.1|TRBJ1-4*01|Homo sapiens||J-PHE|343..345|3 nt|1|||||3+0=3||
+ttt
+>AB306215.1|TRBJ2-5*01|Homo sapiens||J-PHE|388..390|3 nt|1|||||3+0=3||
+ttc
+>AB306219.1|TRBJ2-1*01|Homo sapiens||J-PHE|377..379|3 nt|1|||||3+0=3||
+ttc
+>AB306225.1|TRBJ2-2*01|Homo sapiens||J-PHE|395..397|3 nt|1|||||3+0=3||
+ttt
+>AB306226.1|TRBJ1-6*01|Homo sapiens||J-PHE|411..413|3 nt|1|||||3+0=3||
+ttt
+>AB306230.1|TRBJ2-5*01|Homo sapiens||J-PHE|496..498|3 nt|1|||||3+0=3||
+ttc
+>AB306231.1|TRBJ1-4*01|Homo sapiens||J-PHE|420..422|3 nt|1|||||3+0=3||
+ttt
+>AB306232.1|TRBJ2-7*01|Homo sapiens||J-PHE|404..406|3 nt|1|||||3+0=3||
+ttc
+>AB306235.1|TRBJ2-7*01|Homo sapiens||J-PHE|388..390|3 nt|1|||||3+0=3||
+ttc
+>AB306237.1|TRBJ2-1*01|Homo sapiens||J-PHE|395..397|3 nt|1|||||3+0=3||
+ttc
+>AB306245.1|TRBJ2-5*01|Homo sapiens||J-PHE|405..407|3 nt|1|||||3+0=3||
+ttc
+>AB306247.1|TRBJ2-5*01|Homo sapiens||J-PHE|376..378|3 nt|1|||||3+0=3||
+ttc
+>AB306251.1|TRBJ2-7*01|Homo sapiens||J-PHE|421..423|3 nt|1|||||3+0=3||
+ttc
+>AB306256.1|TRBJ2-7*01|Homo sapiens||J-PHE|386..388|3 nt|1|||||3+0=3||
+ttc
+>AB306257.1|TRBJ2-5*01|Homo sapiens||J-PHE|445..447|3 nt|1|||||3+0=3||
+ttc
+>AB306259.1|TRBJ2-5*01|Homo sapiens||J-PHE|406..408|3 nt|1|||||3+0=3||
+ttc
+>AB306262.1|TRBJ2-1*01|Homo sapiens||J-PHE|444..446|3 nt|1|||||3+0=3||
+ttc
+>AB306263.1|TRBJ2-2*01|Homo sapiens||J-PHE|462..464|3 nt|1|||||3+0=3||
+ttt
+>AB360838.1|TRBJ1-1*01|Homo sapiens||J-PHE|426..428|3 nt|1|||||3+0=3||
+ttt
+>AB360840.1|TRBJ2-4*01|Homo sapiens||J-PHE|380..382|3 nt|1|||||3+0=3||
+ttc
+>AB360846.1|TRBJ2-7*01|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttc
+>AB360847.1|TRBJ1-5*01|Homo sapiens||J-PHE|406..408|3 nt|1|||||3+0=3||
+ttt
+>AB360849.1|TRBJ2-1*01|Homo sapiens||J-PHE|419..421|3 nt|1|||||3+0=3||
+ttc
+>AF009786.1|TRBJ1-3*01|Homo sapiens||J-PHE|241..243|3 nt|1|||||3+0=3||
+ttt
+>AF009787.1|TRBJ2-7*01|Homo sapiens||J-PHE|106..108|3 nt|1|||||3+0=3||
+ttc
+>AF009788.1|TRBJ2-1*01|Homo sapiens||J-PHE|130..132|3 nt|1|||||3+0=3||
+ttc
+>AF009789.1|TRBJ2-3*01|Homo sapiens||J-PHE|88..90|3 nt|1|||||3+0=3||
+ttt
+>AF009790.1|TRBJ2-5*01|Homo sapiens||J-PHE|124..126|3 nt|1|||||3+0=3||
+ttc
+>AF009791.1|TRBJ2-3*01|Homo sapiens||J-PHE|130..132|3 nt|1|||||3+0=3||
+ttt
+>AF009792.1|TRBJ2-3*01|Homo sapiens||J-PHE|115..117|3 nt|1|||||3+0=3||
+ttt
+>AF009793.1|TRBJ2-3*01|Homo sapiens||J-PHE|138..140|3 nt|1|||||3+0=3||
+ttt
+>AF018168.1|TRBJ1-2*01|Homo sapiens||J-PHE|139..141|3 nt|1|||||3+0=3||
+ttc
+>AF020637.1|TRBJ2-1*01|Homo sapiens||J-PHE|350..352|3 nt|1|||||3+0=3||
+ttc
+>AF020640.1|TRBJ2-7*01|Homo sapiens||J-PHE|389..391|3 nt|1|||||3+0=3||
+ttc
+>AF020642.1|TRBJ2-7*01|Homo sapiens||J-PHE|408..410|3 nt|1|||||3+0=3||
+ttc
+>AF020644.1|TRBJ1-5*01|Homo sapiens||J-PHE|287..289|3 nt|1|||||3+0=3||
+ttt
+>AF020646.1|TRBJ1-5*01|Homo sapiens||J-PHE|126..128|3 nt|1|||||3+0=3||
+ttt
+>AF020648.1|TRBJ1-5*01|Homo sapiens||J-PHE|123..125|3 nt|1|||||3+0=3||
+ttt
+>AF020650.1|TRBJ1-5*01|Homo sapiens||J-PHE|120..122|3 nt|1|||||3+0=3||
+ttt
+>AF020652.1|TRBJ2-7*01|Homo sapiens||J-PHE|366..368|3 nt|1|||||3+0=3||
+ttc
+>AF020653.1|TRBJ2-7*01|Homo sapiens||J-PHE|366..368|3 nt|1|||||3+0=3||
+ttc
+>AF020654.1|TRBJ2-7*01|Homo sapiens||J-PHE|85..87|3 nt|1|||||3+0=3||
+ttc
+>AF020656.1|TRBJ2-7*01|Homo sapiens||J-PHE|101..103|3 nt|1|||||3+0=3||
+ttc
+>AF033824.1|TRBJ1-1*01|Homo sapiens||J-PHE|285..287|3 nt|1|||||3+0=3||
+ttt
+>AF037565.1|TRBJ2-1*01|Homo sapiens||J-PHE|77..79|3 nt|1|||||3+0=3||
+ttc
+>AF037566.1|TRBJ2-1*01|Homo sapiens||J-PHE|77..79|3 nt|1|||||3+0=3||
+ttc
+>AF037567.1|TRBJ2-1|Homo sapiens||J-PHE|75..77|3 nt|1|||||3+0=3||
+ttc
+>AF041067.1|TRBJ2-1*01|Homo sapiens||J-PHE|136..138|3 nt|1|||||3+0=3||
+ttc
+>AF043179.1|TRBJ2-1*01|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttc
+>AF043180.1|TRBJ1-5*01|Homo sapiens||J-PHE|379..381|3 nt|1|||||3+0=3||
+ttt
+>AF043182.1|TRBJ2-5*01|Homo sapiens||J-PHE|355..357|3 nt|1|||||3+0=3||
+ttc
+>AF043183.1|TRBJ2-3*01|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttt
+>AF043184.1|TRBJ1-6*02|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttt
+>AF043185.1|TRBJ1-5*01|Homo sapiens||J-PHE|370..372|3 nt|1|||||3+0=3||
+ttt
+>AF043747.1|TRBJ1-1*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttt
+>AF043748.1|TRBJ1-1*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttt
+>AF043749.1|TRBJ1-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF043750.1|TRBJ1-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF043751.1|TRBJ2-1*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttc
+>AF043752.1|TRBJ2-5*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043753.1|TRBJ1-3*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>AF043754.1|TRBJ1-3*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>AF043756.1|TRBJ2-1*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043757.1|TRBJ2-1*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043758.1|TRBJ2-1*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043759.1|TRBJ2-1*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043761.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF043762.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF043763.1|TRBJ2-7*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttc
+>AF043769.1|TRBJ2-2*01|Homo sapiens||J-PHE|82..84|3 nt|1|||||3+0=3||
+ttt
+>AF043770.1|TRBJ1-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF043771.1|TRBJ1-2*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttc
+>AF043772.1|TRBJ1-2*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttc
+>AF043773.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043774.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043775.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043776.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043777.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043778.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043779.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043780.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043781.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043782.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043783.1|TRBJ1-3*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043784.1|TRBJ1-3*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043785.1|TRBJ1-6*01 or TRBJ1-6*02|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043786.1|TRBJ1-6*01 or TRBJ1-6*02|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043787.1|TRBJ2-1*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043788.1|TRBJ2-1*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttc
+>AF043789.1|TRBJ2-1*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttc
+>AF043790.1|TRBJ2-3*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF043791.1|TRBJ1-2*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttc
+>AF043792.1|TRBJ1-5*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043793.1|TRBJ2-1*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF043794.1|TRBJ2-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF043795.1|TRBJ2-1*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttc
+>AF043796.1|TRBJ2-7*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttc
+>AF043797.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF043798.1|TRBJ1-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF043799.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043800.1|TRBJ1-4*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttt
+>AF043801.1|TRBJ2-3*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>AF043802.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF043817.1|TRBJ1-1*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043818.1|TRBJ1-1*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttt
+>AF043819.1|TRBJ2-1*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttc
+>AF043820.1|TRBJ2-1*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttc
+>AF043821.1|TRBJ2-1*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttc
+>AF043822.1|TRBJ2-1*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttc
+>AF043823.1|TRBJ2-1*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttc
+>AF043824.1|TRBJ2-2*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF043825.1|TRBJ2-2*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF043826.1|TRBJ2-3*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttt
+>AF043827.1|TRBJ2-3*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttt
+>AF043828.1|TRBJ2-1*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043829.1|TRBJ2-2*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043830.1|TRBJ1-5*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttt
+>AF043831.1|TRBJ2-7*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF043832.1|TRBJ2-2*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttt
+>AF043833.1|TRBJ2-2*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttt
+>AF043834.1|TRBJ2-2*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043835.1|TRBJ2-2*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043836.1|TRBJ2-5*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043837.1|TRBJ2-7*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043838.1|TRBJ2-7*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttc
+>AF043839.1|TRBJ2-7*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttc
+>AF043859.1|TRBJ2-3*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>AF043860.1|TRBJ2-3*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>AF043861.1|TRBJ2-3*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>AF043862.1|TRBJ2-7*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttc
+>AF043863.1|TRBJ1-1*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043864.1|TRBJ1-1*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043865.1|TRBJ1-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF043866.1|TRBJ1-1*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttt
+>AF043867.1|TRBJ2-7*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043868.1|TRBJ2-2*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043869.1|TRBJ2-3*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF043870.1|TRBJ2-3*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF043871.1|TRBJ2-5*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF043872.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF043873.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF043885.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043887.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043889.1|TRBJ2-7*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043891.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043893.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043895.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043983.1|TRBJ2-3*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043985.1|TRBJ2-3*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043987.1|TRBJ2-3*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF043989.1|TRBJ2-1*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043991.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043993.1|TRBJ2-5*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF043995.1|TRBJ1-4*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttt
+>AF045802.1|TRBJ2-3*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>AF045803.1|TRBJ2-3*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF045804.1|TRBJ2-3*01|Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttt
+>AF045805.1|TRBJ2-3*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF045806.1|TRBJ2-3*01|Homo sapiens||J-PHE|94..96|3 nt|1|||||3+0=3||
+ttt
+>AF045807.1|TRBJ2-3*01|Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>AF045808.1|TRBJ2-3*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF045809.1|TRBJ2-6*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttc
+>AF045810.1|TRBJ2-6*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF045811.1|TRBJ2-7*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttc
+>AF045812.1|TRBJ1-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF071468.1|TRBJ1-2*01|Homo sapiens||J-PHE|118..120|3 nt|1|||||3+0=3||
+ttc
+>AF071469.1|TRBJ1-2*01|Homo sapiens||J-PHE|136..138|3 nt|1|||||3+0=3||
+ttc
+>AF071470.1|TRBJ1-1*01|Homo sapiens||J-PHE|91..93|3 nt|1|||||3+0=3||
+ttt
+>AF071472.1|TRBJ2-3*01|Homo sapiens||J-PHE|217..219|3 nt|1|||||3+0=3||
+ttt
+>AF078961.1|TRBJ1-2*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttc
+>AF078962.1|TRBJ1-2*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AF078963.1|TRBJ1-5*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078964.1|TRBJ2-2*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078970.1|TRBJ1-1*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078971.1|TRBJ1-1*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078973.1|TRBJ1-5*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078974.1|TRBJ1-5*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078975.1|TRBJ1-5*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078976.1|TRBJ1-5*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078977.1|TRBJ1-5*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078978.1|TRBJ1-5*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078980.1|TRBJ1-5*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078983.1|TRBJ2-7*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AF078984.1|TRBJ1-1*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078985.1|TRBJ1-1*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078991.1|TRBJ2-7*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF078992.1|TRBJ2-7*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AF078993.1|TRBJ1-2*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AF078996.1|TRBJ1-5*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF078997.1|TRBJ1-5*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF079001.1|TRBJ2-2*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AF079008.1|TRBJ1-6*01 or TRBJ1-6*02|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>AF079009.1|TRBJ2-5*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttc
+>AF079010.1|TRBJ2-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttc
+>AF079011.1|TRBJ1-5*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF079012.1|TRBJ2-1*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttc
+>AF079013.1|TRBJ2-5*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttc
+>AF079014.1|TRBJ1-1*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttt
+>AF079015.1|TRBJ1-2*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttc
+>AF079018.1|TRBJ2-7*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AF079019.1|TRBJ2-2*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttt
+>AF079020.1|TRBJ2-3*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttt
+>AF079021.1|TRBJ2-5*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AF079022.1|TRBJ1-1*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttt
+>AF079023.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AF079024.1|TRBJ2-7*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttc
+>AF079026.1|TRBJ1-5*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>AF079030.1|TRBJ1-5*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>AF079032.1|TRBJ2-3*01|Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttt
+>AF079034.1|TRBJ2-1*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>AF079036.1|TRBJ1-2*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>AF079038.1|TRBJ2-7*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>AF079040.1|TRBJ2-7*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>AF079041.1|TRBJ1-1*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>AF079042.1|TRBJ1-1*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>AF079043.1|TRBJ1-2*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>AF079044.1|TRBJ1-5*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>AF079045.1|TRBJ1-5*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>AF079046.1|TRBJ1-5*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>AF079047.1|TRBJ1-6*01 or TRBJ1-6*02|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>AF079048.1|TRBJ2-7*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>AF079049.1|TRBJ2-7*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>AF079050.1|TRBJ2-7*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>AF079051.1|TRBJ2-7*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>AF079052.1|TRBJ1-5*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>AF079053.1|TRBJ2-1*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>AF079054.1|TRBJ1-5*01|Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>AF079055.1|TRBJ1-4*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AF079056.1|TRBJ2-2*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttt
+>AF079057.1|TRBJ2-2*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttt
+>AF084009.1|TRBJ2-7*01|Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttc
+>AF084023.1|TRBJ2-7*01|Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttc
+>AF087019.1|TRBJ2-1*01|Homo sapiens||J-PHE|121..123|3 nt|1|||||3+0=3||
+ttc
+>AF088340.1|TRBJ2-3*01|Homo sapiens||J-PHE|81..83|3 nt|1|||||3+0=3||
+ttt
+>AF088354.1|TRBJ2-7*01|Homo sapiens||J-PHE|66..68|3 nt|1|||||3+0=3||
+ttc
+>AF088357.1|TRBJ2-7*01|Homo sapiens||J-PHE|69..71|3 nt|1|||||3+0=3||
+ttc
+>AF088361.1|TRBJ2-7*01|Homo sapiens||J-PHE|81..83|3 nt|1|||||3+0=3||
+ttc
+>AF088379.1|TRBJ2-7*01|Homo sapiens||J-PHE|72..74|3 nt|1|||||3+0=3||
+ttc
+>AF088410.1|TRBJ1-2*01|Homo sapiens||J-PHE|81..83|3 nt|1|||||3+0=3||
+ttc
+>AF088421.1|TRBJ2-7*01|Homo sapiens||J-PHE|69..71|3 nt|1|||||3+0=3||
+ttc
+>AF088422.1|TRBJ2-1*01|Homo sapiens||J-PHE|66..68|3 nt|1|||||3+0=3||
+ttc
+>AF088439.1|TRBJ2-7*01|Homo sapiens||J-PHE|72..74|3 nt|1|||||3+0=3||
+ttc
+>AF088453.1|TRBJ2-4*01|Homo sapiens||J-PHE|78..80|3 nt|1|||||3+0=3||
+ttc
+>AF088694.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF088695.1|TRBJ2-7*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF088696.1|TRBJ2-7*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF088697.1|TRBJ2-7*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF088699.1|TRBJ2-7*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttc
+>AF088714.1|TRBJ1-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF088715.1|TRBJ1-6*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF088718.1|TRBJ2-7*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF088719.1|TRBJ2-7*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF088720.1|TRBJ1-1*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttt
+>AF088722.1|TRBJ1-6*02|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF088733.1|TRBJ2-7*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF088737.1|TRBJ1-2*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttc
+>AF088738.1|TRBJ2-7*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF088740.1|TRBJ2-7*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttc
+>AF088744.1|TRBJ2-7*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF088745.1|TRBJ2-7*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttc
+>AF088748.1|TRBJ2-7*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF088750.1|TRBJ1-1*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF088751.1|TRBJ1-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF088754.1|TRBJ1-1*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttt
+>AF088755.1|TRBJ2-7*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF088757.1|TRBJ1-1*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttt
+>AF088758.1|TRBJ2-7*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttc
+>AF088761.1|TRBJ1-1*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>AF088762.1|TRBJ1-1*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttt
+>AF088763.1|TRBJ1-1*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttt
+>AF088766.1|TRBJ2-7*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF088774.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF088776.1|TRBJ2-7*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF088783.1|TRBJ1-1*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttt
+>AF088784.1|TRBJ1-1*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttt
+>AF088787.1|TRBJ2-7*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF088791.1|TRBJ2-7*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF088797.1|TRBJ2-7*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF102881.1|TRBJ2-7*01|Homo sapiens||J-PHE|151..153|3 nt|1|||||3+0=3||
+ttc
+>AF132807.1|TRBJ2-1*01|Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttc
+>AF157104.1|TRBJ2-7*01|Homo sapiens||J-PHE|48..50|3 nt|1|||||3+0=3||
+ttc
+>AF189371.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF189372.1|TRBJ1-6*01 or TRBJ1-6*02|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF189373.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF189374.1|TRBJ1-4*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF189375.1|TRBJ1-2*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttc
+>AF189376.1|TRBJ1-5*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF189377.1|TRBJ1-2*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF189378.1|TRBJ2-1*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF189379.1|TRBJ1-6*01 or TRBJ1-6*02|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttt
+>AF189380.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF189381.1|TRBJ1-2*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF189382.1|TRBJ2-7*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF189383.1|TRBJ1-2*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF189384.1|TRBJ2-2*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF189385.1|TRBJ2-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF189386.1|TRBJ1-2*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF189387.1|TRBJ2-3*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttt
+>AF189388.1|TRBJ1-1*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF189389.1|TRBJ1-5*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF189390.1|TRBJ1-4*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttt
+>AF189391.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF189392.1|TRBJ1-3*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>AF189393.1|TRBJ2-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF189394.1|TRBJ2-4*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF189395.1|TRBJ1-2*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF189396.1|TRBJ1-2*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF189397.1|TRBJ1-5*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttt
+>AF189398.1|TRBJ1-1*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF189399.1|TRBJ2-1*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF189400.1|TRBJ2-1*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttc
+>AF189401.1|TRBJ1-1*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF189402.1|TRBJ2-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttt
+>AF189403.1|TRBJ1-2*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF189404.1|TRBJ1-2*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF189405.1|TRBJ1-6*01 or TRBJ1-6*02|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF189406.1|TRBJ1-4*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttt
+>AF189407.1|TRBJ1-6*01 or TRBJ1-6*02|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF189408.1|TRBJ1-5*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttt
+>AF189409.1|TRBJ1-2*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF189410.1|TRBJ1-1*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttt
+>AF189411.1|TRBJ2-3*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>AF189412.1|TRBJ2-7*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF189413.1|TRBJ2-3*01|Homo sapiens||J-PHE|73..75|3 nt|1|||||3+0=3||
+ttt
+>AF189414.1|TRBJ2-2*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF189415.1|TRBJ1-1*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttt
+>AF189416.1|TRBJ1-2*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF189417.1|TRBJ2-2*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF189418.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF189420.1|TRBJ1-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttc
+>AF189421.1|TRBJ1-6*01 or TRBJ1-6*02|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF189422.1|TRBJ1-2*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF189423.1|TRBJ1-1*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttt
+>AF189424.1|TRBJ1-5*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF189425.1|TRBJ1-1*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>AF189427.1|TRBJ1-1*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>AF189428.1|TRBJ2-4*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF189429.1|TRBJ1-2*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttc
+>AF189430.1|TRBJ1-5*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttt
+>AF189431.1|TRBJ1-6*01 or TRBJ1-6*02|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttt
+>AF189432.1|TRBJ2-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>AF189433.1|TRBJ2-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttt
+>AF189435.1|TRBJ1-1*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttt
+>AF189436.1|TRBJ1-2*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AF189437.1|TRBJ2-2*01|Homo sapiens||J-PHE|70..72|3 nt|1|||||3+0=3||
+ttt
+>AF189438.1|TRBJ1-1*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttt
+>AF189439.1|TRBJ2-1*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttc
+>AF189440.1|TRBJ1-6*01 or TRBJ1-6*02|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttt
+>AF189450.1|TRBJ2-7*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttc
+>AF189452.1|TRBJ1-6*01 or TRBJ1-6*02|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttt
+>AF189454.1|TRBJ2-3*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttt
+>AF189467.1|TRBJ2-3*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>AF189472.1|TRBJ2-1*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttc
+>AF189479.1|TRBJ1-1*01|Homo sapiens||J-PHE|85..87|3 nt|1|||||3+0=3||
+ttt
+>AF189481.1|TRBJ2-3*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttt
+>AF189493.1|TRBJ2-7*01|Homo sapiens||J-PHE|82..84|3 nt|1|||||3+0=3||
+ttc
+>AF189496.1|TRBJ1-3*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>AF189501.1|TRBJ2-2*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>AF189503.1|TRBJ2-6*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttc
+>AF189517.1|TRBJ2-7*01|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>AF189521.1|TRBJ2-1*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttc
+>AF189527.1|TRBJ2-3*01|Homo sapiens||J-PHE|76..78|3 nt|1|||||3+0=3||
+ttt
+>AF189535.1|TRBJ2-5*01|Homo sapiens||J-PHE|82..84|3 nt|1|||||3+0=3||
+ttc
+>AF272742.1|TRBJ1-1*01|Homo sapiens||J-PHE|349..351|3 nt|1|||||3+0=3||
+ttt
+>AF272743.1|TRBJ2-7*01|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttc
+>AF272744.1|TRBJ2-1*01|Homo sapiens||J-PHE|409..411|3 nt|1|||||3+0=3||
+ttc
+>AF272745.1|TRBJ2-1*01|Homo sapiens||J-PHE|397..399|3 nt|1|||||3+0=3||
+ttc
+>AF387741.1|TRBJ2-3*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttt
+>AF387742.1|TRBJ2-3*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttt
+>AF387743.1|TRBJ2-3*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttt
+>AF387744.1|TRBJ2-5*01|Homo sapiens||J-PHE|348..350|3 nt|1|||||3+0=3||
+ttc
+>AF387745.1|TRBJ1-1*01|Homo sapiens||J-PHE|345..347|3 nt|1|||||3+0=3||
+ttt
+>AF387746.1|TRBJ1-1*01|Homo sapiens||J-PHE|345..347|3 nt|1|||||3+0=3||
+ttt
+>AF387747.1|TRBJ2-5*01|Homo sapiens||J-PHE|348..350|3 nt|1|||||3+0=3||
+ttc
+>AF387748.1|TRBJ1-1*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttt
+>AF387749.1|TRBJ2-5*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttc
+>AF387750.1|TRBJ2-2*01|Homo sapiens||J-PHE|347..349|3 nt|1|||||3+0=3||
+ttt
+>AF387751.1|TRBJ2-5*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttc
+>AF387752.1|TRBJ2-2*01|Homo sapiens||J-PHE|357..359|3 nt|1|||||3+0=3||
+ttt
+>AF387754.1|TRBJ2-5*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttc
+>AF387755.1|TRBJ1-5*01|Homo sapiens||J-PHE|360..362|3 nt|1|||||3+0=3||
+ttt
+>AF387757.1|TRBJ1-5*01|Homo sapiens||J-PHE|347..349|3 nt|1|||||3+0=3||
+ttt
+>AF387759.1|TRBJ1-1*01|Homo sapiens||J-PHE|357..359|3 nt|1|||||3+0=3||
+ttt
+>AF387761.1|TRBJ2-7*01|Homo sapiens||J-PHE|343..345|3 nt|1|||||3+0=3||
+ttc
+>AF387762.1|TRBJ2-2*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttt
+>AF395521.1|TRBJ2-3*01|Homo sapiens||J-PHE|348..350|3 nt|1|||||3+0=3||
+ttt
+>AF395522.1|TRBJ1-2*01|Homo sapiens||J-PHE|335..337|3 nt|1|||||3+0=3||
+ttc
+>AF395523.1|TRBJ2-3*01|Homo sapiens||J-PHE|322..324|3 nt|1|||||3+0=3||
+ttt
+>AF395524.1|TRBJ1-5*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttt
+>AF395527.1|TRBJ2-1*01|Homo sapiens||J-PHE|350..352|3 nt|1|||||3+0=3||
+ttc
+>AF395528.1|TRBJ1-2*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttc
+>AF395529.1|TRBJ1-5*01|Homo sapiens||J-PHE|354..356|3 nt|1|||||3+0=3||
+ttt
+>AF395530.1|TRBJ2-1*01|Homo sapiens||J-PHE|364..366|3 nt|1|||||3+0=3||
+ttc
+>AF397439.1|TRBJ2-5*01|Homo sapiens||J-PHE|304..306|3 nt|1|||||3+0=3||
+ttc
+>AF397440.1|TRBJ2-2*01|Homo sapiens||J-PHE|348..350|3 nt|1|||||3+0=3||
+ttt
+>AF397441.1|TRBJ2-7*01|Homo sapiens||J-PHE|345..347|3 nt|1|||||3+0=3||
+ttc
+>AF397442.1|TRBJ1-1*01|Homo sapiens||J-PHE|345..347|3 nt|1|||||3+0=3||
+ttt
+>AF397443.1|TRBJ2-7*01|Homo sapiens||J-PHE|342..344|3 nt|1|||||3+0=3||
+ttc
+>AF397444.1|TRBJ2-5*01|Homo sapiens||J-PHE|354..356|3 nt|1|||||3+0=3||
+ttc
+>AF397445.1|TRBJ2-5*01|Homo sapiens||J-PHE|348..350|3 nt|1|||||3+0=3||
+ttc
+>AF397447.1|TRBJ2-5*01|Homo sapiens||J-PHE|348..350|3 nt|1|||||3+0=3||
+ttc
+>AF397448.1|TRBJ2-5*01|Homo sapiens||J-PHE|336..338|3 nt|1|||||3+0=3||
+ttc
+>AF397449.1|TRBJ2-5*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttc
+>AF428130.1|TRBJ2-3*01|Homo sapiens||J-PHE|214..216|3 nt|1|||||3+0=3||
+ttt
+>AF428131.1|TRBJ2-7*01|Homo sapiens||J-PHE|211..213|3 nt|1|||||3+0=3||
+ttc
+>AF428132.1|TRBJ2-3*01|Homo sapiens||J-PHE|217..219|3 nt|1|||||3+0=3||
+ttt
+>AF430647.1|TRBJ1-2*01|Homo sapiens||J-PHE|274..276|3 nt|1|||||3+0=3||
+ttc
+>AF430648.1|TRBJ2-7*01|Homo sapiens||J-PHE|278..280|3 nt|1|||||3+0=3||
+ttc
+>AF430649.1|TRBJ2-2*01|Homo sapiens||J-PHE|278..280|3 nt|1|||||3+0=3||
+ttt
+>AF430650.1|TRBJ2-2*01|Homo sapiens||J-PHE|281..283|3 nt|1|||||3+0=3||
+ttt
+>AF430651.1|TRBJ2-2*01|Homo sapiens||J-PHE|290..292|3 nt|1|||||3+0=3||
+ttt
+>AF430653.1|TRBJ2-7*01|Homo sapiens||J-PHE|283..285|3 nt|1|||||3+0=3||
+ttc
+>AF430654.1|TRBJ2-5*01|Homo sapiens||J-PHE|275..277|3 nt|1|||||3+0=3||
+ttc
+>AF430655.1|TRBJ2-7*01|Homo sapiens||J-PHE|278..280|3 nt|1|||||3+0=3||
+ttc
+>AF430656.1|TRBJ1-2*01|Homo sapiens||J-PHE|281..283|3 nt|1|||||3+0=3||
+ttc
+>AF430657.1|TRBJ2-3*01|Homo sapiens||J-PHE|281..283|3 nt|1|||||3+0=3||
+ttt
+>AF430658.1|TRBJ2-1*01|Homo sapiens||J-PHE|281..283|3 nt|1|||||3+0=3||
+ttc
+>AF430659.1|TRBJ2-3*01|Homo sapiens||J-PHE|278..280|3 nt|1|||||3+0=3||
+ttt
+>AF430660.1|TRBJ1-2*01|Homo sapiens||J-PHE|281..283|3 nt|1|||||3+0=3||
+ttc
+>AF430661.1|TRBJ2-1*01|Homo sapiens||J-PHE|280..282|3 nt|1|||||3+0=3||
+ttc
+>AF430662.1|TRBJ2-7*01|Homo sapiens||J-PHE|281..283|3 nt|1|||||3+0=3||
+ttc
+>AF430663.1|TRBJ2-2*01|Homo sapiens||J-PHE|278..280|3 nt|1|||||3+0=3||
+ttt
+>AF430664.1|TRBJ2-7*01|Homo sapiens||J-PHE|284..286|3 nt|1|||||3+0=3||
+ttc
+>AF430665.1|TRBJ2-1*01|Homo sapiens||J-PHE|284..286|3 nt|1|||||3+0=3||
+ttc
+>AF430667.1|TRBJ2-1*01|Homo sapiens||J-PHE|284..286|3 nt|1|||||3+0=3||
+ttc
+>AF430668.1|TRBJ1-3*01|Homo sapiens||J-PHE|287..289|3 nt|1|||||3+0=3||
+ttt
+>AF430669.1|TRBJ1-1*01|Homo sapiens||J-PHE|278..280|3 nt|1|||||3+0=3||
+ttt
+>AF430670.1|TRBJ1-1*01|Homo sapiens||J-PHE|278..280|3 nt|1|||||3+0=3||
+ttt
+>AF430671.1|TRBJ2-3*01|Homo sapiens||J-PHE|278..280|3 nt|1|||||3+0=3||
+ttt
+>AF430672.1|TRBJ2-5*01|Homo sapiens||J-PHE|283..285|3 nt|1|||||3+0=3||
+ttc
+>AF430673.1|TRBJ1-2*01|Homo sapiens||J-PHE|272..274|3 nt|1|||||3+0=3||
+ttc
+>AF430674.1|TRBJ2-6*01|Homo sapiens||J-PHE|281..283|3 nt|1|||||3+0=3||
+ttc
+>AF430675.1|TRBJ1-3*01|Homo sapiens||J-PHE|290..292|3 nt|1|||||3+0=3||
+ttt
+>AF430676.1|TRBJ1-2*01|Homo sapiens||J-PHE|281..283|3 nt|1|||||3+0=3||
+ttc
+>AF430677.1|TRBJ2-5*01|Homo sapiens||J-PHE|278..280|3 nt|1|||||3+0=3||
+ttc
+>AF430678.1|TRBJ2-1*01|Homo sapiens||J-PHE|278..280|3 nt|1|||||3+0=3||
+ttc
+>AF430679.1|TRBJ2-3*01|Homo sapiens||J-PHE|281..283|3 nt|1|||||3+0=3||
+ttt
+>AF430680.1|TRBJ2-1*01|Homo sapiens||J-PHE|281..283|3 nt|1|||||3+0=3||
+ttc
+>AF430681.1|TRBJ2-7*01|Homo sapiens||J-PHE|278..280|3 nt|1|||||3+0=3||
+ttc
+>AF430686.1|TRBJ2-3*01|Homo sapiens||J-PHE|239..241|3 nt|1|||||3+0=3||
+ttt
+>AF430687.1|TRBJ2-5*01|Homo sapiens||J-PHE|287..289|3 nt|1|||||3+0=3||
+ttc
+>AF430688.1|TRBJ2-2*01|Homo sapiens||J-PHE|348..350|3 nt|1|||||3+0=3||
+ttt
+>AF430689.1|TRBJ2-3*01|Homo sapiens||J-PHE|354..356|3 nt|1|||||3+0=3||
+ttt
+>AF430690.1|TRBJ2-2*01|Homo sapiens||J-PHE|291..293|3 nt|1|||||3+0=3||
+ttt
+>AF430692.1|TRBJ2-5*01|Homo sapiens||J-PHE|348..350|3 nt|1|||||3+0=3||
+ttc
+>AF430693.1|TRBJ2-5*01|Homo sapiens||J-PHE|343..345|3 nt|1|||||3+0=3||
+ttc
+>AF430694.1|TRBJ2-5*01|Homo sapiens||J-PHE|354..356|3 nt|1|||||3+0=3||
+ttc
+>AF430695.1|TRBJ2-5*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttc
+>AF430696.1|TRBJ2-5*01|Homo sapiens||J-PHE|345..347|3 nt|1|||||3+0=3||
+ttc
+>AF430697.1|TRBJ2-5*01|Homo sapiens||J-PHE|325..327|3 nt|1|||||3+0=3||
+ttc
+>AJ004872.1|TRBJ1-5*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttt
+>AJ007768.1|TRBJ2-7*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttc
+>AJ007770.1|TRBJ1-2*01|Homo sapiens||J-PHE|370..372|3 nt|1|||||3+0=3||
+ttc
+>AJ007773.1|TRBJ1-1*01|Homo sapiens||J-PHE|370..372|3 nt|1|||||3+0=3||
+ttt
+>AJ007777.1|TRBJ2-3*01|Homo sapiens||J-PHE|376..378|3 nt|1|||||3+0=3||
+ttt
+>AJ007779.1|TRBJ2-1*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttc
+>AJ841707.1|TRBJ1-5*01|Homo sapiens||J-PHE|205..207|3 nt|1|||||3+0=3||
+ttt
+>AJ841708.1|TRBJ2-2*01|Homo sapiens||J-PHE|196..198|3 nt|1|||||3+0=3||
+ttt
+>AJ841709.1|TRBJ1-1*01|Homo sapiens||J-PHE|208..210|3 nt|1|||||3+0=3||
+ttt
+>AJ841712.1|TRBJ2-7*01|Homo sapiens||J-PHE|244..246|3 nt|1|||||3+0=3||
+ttc
+>AJ841713.1|TRBJ2-6*01|Homo sapiens||J-PHE|256..258|3 nt|1|||||3+0=3||
+ttc
+>AJ841717.1|TRBJ1-2*01|Homo sapiens||J-PHE|193..195|3 nt|1|||||3+0=3||
+ttc
+>AJ841718.1|TRBJ1-6*01|Homo sapiens||J-PHE|199..201|3 nt|1|||||3+0=3||
+ttt
+>AJ841719.1|TRBJ1-4*01|Homo sapiens||J-PHE|196..198|3 nt|1|||||3+0=3||
+ttt
+>AJ841720.1|TRBJ2-2*01|Homo sapiens||J-PHE|265..267|3 nt|1|||||3+0=3||
+ttt
+>AJ841721.1|TRBJ1-1*01|Homo sapiens||J-PHE|199..201|3 nt|1|||||3+0=3||
+ttt
+>AJ841722.1|TRBJ2-7*01|Homo sapiens||J-PHE|208..210|3 nt|1|||||3+0=3||
+ttc
+>AJ841723.1|TRBJ2-1*01|Homo sapiens||J-PHE|208..210|3 nt|1|||||3+0=3||
+ttc
+>AJ841725.1|TRBJ2-7*01|Homo sapiens||J-PHE|229..231|3 nt|1|||||3+0=3||
+ttc
+>AJ841726.1|TRBJ2-1*01|Homo sapiens||J-PHE|244..246|3 nt|1|||||3+0=3||
+ttc
+>AJ841733.1|TRBJ1-5*01|Homo sapiens||J-PHE|244..246|3 nt|1|||||3+0=3||
+ttt
+>AJ841735.1|TRBJ2-1*01|Homo sapiens||J-PHE|223..225|3 nt|1|||||3+0=3||
+ttc
+>AJ841737.1|TRBJ2-7*01|Homo sapiens||J-PHE|237..239|3 nt|1|||||3+0=3||
+ttc
+>AJ841738.1|TRBJ2-2*01|Homo sapiens||J-PHE|238..240|3 nt|1|||||3+0=3||
+ttt
+>AK097858.1|TRBJ2-6*01|Homo sapiens||J-PHE|441..443|3 nt|1|||||3+0=3||
+ttc
+>AM041151.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041153.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041155.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041157.1|TRBJ2-1*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AM041159.1|TRBJ2-7*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AM041161.1|TRBJ2-1*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AM041163.1|TRBJ2-1*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AM041165.1|TRBJ1-1*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041167.1|TRBJ2-7*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttc
+>AM041168.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041169.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041170.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041171.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041172.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041174.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041175.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041176.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041177.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041178.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041179.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041190.1|TRBJ2-6*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AM041191.1|TRBJ1-5*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttt
+>AM041192.1|TRBJ2-7*01|Homo sapiens||J-PHE|58..60|3 nt|1|||||3+0=3||
+ttc
+>AM041193.1|TRBJ2-1*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttc
+>AM041194.1|TRBJ2-1*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttc
+>AM041195.1|TRBJ1-5*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttt
+>AM041196.1|TRBJ2-1*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttc
+>AM041198.1|TRBJ2-1*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AM041199.1|TRBJ2-1*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AM041200.1|TRBJ1-5*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>AM041202.1|TRBJ2-1*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AM041203.1|TRBJ1-2*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttc
+>AM041204.1|TRBJ2-1*01|Homo sapiens||J-PHE|61..63|3 nt|1|||||3+0=3||
+ttc
+>AM041205.1|TRBJ2-1*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AM041206.1|TRBJ2-7*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AM041207.1|TRBJ2-4*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttc
+>AM041208.1|TRBJ2-1*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttc
+>AM041209.1|TRBJ2-7*01|Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttc
+>AM072802.1|TRBJ1-5*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttt
+>AM072806.1|TRBJ2-7*01|Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttc
+>AM072807.1|TRBJ2-5*01|Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttc
+>AY029331.1|TRBJ1-5*01|Homo sapiens||J-PHE|348..350|3 nt|1|||||3+0=3||
+ttt
+>AY032920.1|TRBJ1-5*01|Homo sapiens||J-PHE|348..350|3 nt|1|||||3+0=3||
+ttt
+>AY032921.1|TRBJ2-3*01|Homo sapiens||J-PHE|350..352|3 nt|1|||||3+0=3||
+ttt
+>AY373824.1|TRBJ2-2*01|Homo sapiens||J-PHE|388..390|3 nt|1|||||3+0=3||
+ttt
+>AY373825.1|TRBJ2-3*01|Homo sapiens||J-PHE|370..372|3 nt|1|||||3+0=3||
+ttt
+>AY373826.1|TRBJ2-2*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttt
+>AY475217.1|TRBJ2-7*01|Homo sapiens||J-PHE|394..396|3 nt|1|||||3+0=3||
+ttc
+>AY475218.1|TRBJ2-7*01|Homo sapiens||J-PHE|376..378|3 nt|1|||||3+0=3||
+ttc
+>AY726748.1|TRBJ2-3*01|Homo sapiens||J-PHE|199..201|3 nt|1|||||3+0=3||
+ttt
+>AY726749.1|TRBJ2-7*01|Homo sapiens||J-PHE|190..192|3 nt|1|||||3+0=3||
+ttc
+>AY726750.1|TRBJ2-7*01|Homo sapiens||J-PHE|187..189|3 nt|1|||||3+0=3||
+ttc
+>D50742.1|TRBJ2-7*01|Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>D50760.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttc
+>DQ341454.1|TRBJ2-6*01|Homo sapiens||J-PHE|379..381|3 nt|1|||||3+0=3||
+ttc
+>DQ341455.1|TRBJ1-6*02|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttt
+>DQ341456.1|TRBJ2-1*01|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttc
+>DQ341457.1|TRBJ2-7*01|Homo sapiens||J-PHE|370..372|3 nt|1|||||3+0=3||
+ttc
+>DQ341458.1|TRBJ1-5*01|Homo sapiens||J-PHE|364..366|3 nt|1|||||3+0=3||
+ttt
+>DQ341459.1|TRBJ2-1*01|Homo sapiens||J-PHE|379..381|3 nt|1|||||3+0=3||
+ttc
+>DQ341460.1|TRBJ2-3*01|Homo sapiens||J-PHE|385..387|3 nt|1|||||3+0=3||
+ttt
+>DQ341461.1|TRBJ1-3*01|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttt
+>DQ341462.1|TRBJ2-5*01|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttc
+>E00685.1|TRBJ1-2*01|Homo sapiens||J-PHE|413..415|3 nt|1|||||3+0=3||
+ttc
+>GQ502867.1|TRBJ2-1*01|Homo sapiens||J-PHE|172..174|3 nt|1|||||3+0=3||
+ttc
+>GQ502871.1|TRBJ2-3*01|Homo sapiens||J-PHE|151..153|3 nt|1|||||3+0=3||
+ttt
+>GQ502874.1|TRBJ2-3*01|Homo sapiens||J-PHE|157..159|3 nt|1|||||3+0=3||
+ttt
+>GQ502878.1|TRBJ2-3*01|Homo sapiens||J-PHE|166..168|3 nt|1|||||3+0=3||
+ttt
+>GQ502879.1|TRBJ2-3*01|Homo sapiens||J-PHE|166..168|3 nt|1|||||3+0=3||
+ttt
+>GU326331.1|TRBJ1-2*01|Homo sapiens||J-PHE|376..378|3 nt|1|||||3+0=3||
+ttc
+>K01571.1|TRBJ1-2*01|Homo sapiens||J-PHE|413..415|3 nt|1|||||3+0=3||
+ttc
+>K02545.1|TRBJ1-1*01|Homo sapiens||J-PHE|766..768|3 nt|1|||||3+0=3||
+ttt
+>K02545.1|TRBJ1-2*01|Homo sapiens||J-PHE|903..905|3 nt|1|||||3+0=3||
+ttc
+>K02547.1|TRBJ1-2*01|Homo sapiens||J-PHE|67..69|3 nt|1|||||3+0=3||
+ttc
+>K02778.1|TRBJ2-3|Homo sapiens||J-PHE|27..29|3 nt|1|||||3+0=3||
+ttt
+>K02779.1|TRBJ1-2*01|Homo sapiens||J-PHE|151..153|3 nt|1|||||3+0=3||
+ttc
+>K02780.1|TRBJ2-5*01|Homo sapiens||J-PHE|136..138|3 nt|1|||||3+0=3||
+ttc
+>K02885.1|TRBJ1-2*01|Homo sapiens||J-PHE|256..258|3 nt|1|||||3+0=3||
+ttc
+>L07294.1|TRBJ1-1*01|Homo sapiens||J-PHE|388..390|3 nt|1|||||3+0=3||
+ttt
+>L10118.1|TRBJ2-5*01|Homo sapiens||J-PHE|244..246|3 nt|1|||||3+0=3||
+ttc
+>L10119.1|TRBJ2-1*01|Homo sapiens||J-PHE|154..156|3 nt|1|||||3+0=3||
+ttc
+>L10121.1||Homo sapiens||J-PHE|163..165|3 nt|1|||||3+0=3||
+ttc
+>L14854.1|TRBJ2-1*01|Homo sapiens||J-PHE|229..231|3 nt|1|||||3+0=3||
+ttc
+>L34719.1|TRBJ2-7*01|Homo sapiens||J-PHE|115..117|3 nt|1|||||3+0=3||
+ttc
+>L34720.1|TRBJ2-7*01|Homo sapiens||J-PHE|223..225|3 nt|1|||||3+0=3||
+ttc
+>L34721.1|TRBJ2-7*01|Homo sapiens||J-PHE|163..165|3 nt|1|||||3+0=3||
+ttc
+>L34722.1|TRBJ1-1*01|Homo sapiens||J-PHE|79..81|3 nt|1|||||3+0=3||
+ttt
+>L34723.1|TRBJ2-1*01|Homo sapiens||J-PHE|115..117|3 nt|1|||||3+0=3||
+ttc
+>L34724.1|TRBJ2-2*01|Homo sapiens||J-PHE|175..177|3 nt|1|||||3+0=3||
+ttt
+>L34725.1|TRBJ2-2*01|Homo sapiens||J-PHE|151..153|3 nt|1|||||3+0=3||
+ttt
+>L34726.1|TRBJ2-2*01|Homo sapiens||J-PHE|103..105|3 nt|1|||||3+0=3||
+ttt
+>L34727.1|TRBJ2-3*01|Homo sapiens||J-PHE|121..123|3 nt|1|||||3+0=3||
+ttt
+>L34728.1|TRBJ1-6*02|Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttt
+>L34729.1|TRBJ2-2*01|Homo sapiens||J-PHE|103..105|3 nt|1|||||3+0=3||
+ttt
+>L34730.1|TRBJ2-3*01|Homo sapiens||J-PHE|127..129|3 nt|1|||||3+0=3||
+ttt
+>L34731.1|TRBJ1-4*01|Homo sapiens||J-PHE|181..183|3 nt|1|||||3+0=3||
+ttt
+>L34732.1|TRBJ1-2*01|Homo sapiens||J-PHE|142..144|3 nt|1|||||3+0=3||
+ttc
+>L34733.1|TRBJ2-7*01|Homo sapiens||J-PHE|127..129|3 nt|1|||||3+0=3||
+ttc
+>L34734.1|TRBJ2-7*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttc
+>L34735.1|TRBJ2-3*01|Homo sapiens||J-PHE|142..144|3 nt|1|||||3+0=3||
+cag
+>L34736.1|TRBJ1-1*01|Homo sapiens||J-PHE|181..183|3 nt|1|||||3+0=3||
+ttt
+>L34737.1|TRBJ1-2*01|Homo sapiens||J-PHE|121..123|3 nt|1|||||3+0=3||
+ttc
+>L36092.2|TRBJ1-1*01|Homo sapiens||J-PHE|640952..640954|3 nt|1|||||3+0=3||
+ttt
+>L36092.2|TRBJ1-2*01|Homo sapiens||J-PHE|641089..641091|3 nt|1|||||3+0=3||
+ttc
+>L36092.2|TRBJ1-3*01|Homo sapiens||J-PHE|641704..641706|3 nt|1|||||3+0=3||
+ttt
+>L36092.2|TRBJ1-4*01|Homo sapiens||J-PHE|642300..642302|3 nt|1|||||3+0=3||
+ttt
+>L36092.2|TRBJ1-5*01|Homo sapiens||J-PHE|642572..642574|3 nt|1|||||3+0=3||
+ttt
+>L36092.2|TRBJ1-6*02|Homo sapiens||J-PHE|643065..643067|3 nt|1|||||3+0=3||
+ttt
+>L36092.2|TRBJ2-1*01|Homo sapiens||J-PHE|650439..650441|3 nt|1|||||3+0=3||
+ttc
+>L36092.2|TRBJ2-2*01|Homo sapiens||J-PHE|650635..650637|3 nt|1|||||3+0=3||
+ttt
+>L36092.2|TRBJ2-3*01|Homo sapiens||J-PHE|650920..650922|3 nt|1|||||3+0=3||
+ttt
+>L36092.2|TRBJ2-4*01|Homo sapiens||J-PHE|651072..651074|3 nt|1|||||3+0=3||
+ttc
+>L36092.2|TRBJ2-5*01|Homo sapiens||J-PHE|651191..651193|3 nt|1|||||3+0=3||
+ttc
+>L36092.2|TRBJ2-6*01|Homo sapiens||J-PHE|651316..651318|3 nt|1|||||3+0=3||
+ttc
+>L36092.2|TRBJ2-7*01|Homo sapiens||J-PHE|651527..651529|3 nt|1|||||3+0=3||
+ttc
+>M11954.1|TRBV20-1|Homo sapiens||J-PHE|742..744|3 nt|1|||||3+0=3||
+ttt
+>M11956.1|TRBV21-1|Homo sapiens|P|J-PHE|517..519|3 nt|1|||||3+0=3||
+ttt
+>M11957.1|TRBJ2-3*01|Homo sapiens||J-PHE|532..534|3 nt|1|||||3+0=3||
+ttt
+>M12883.1|TRBV7-3|Homo sapiens||J-PHE|254..256|3 nt|1|||||3+0=3||
+ttc
+>M12886.1|TRBJ2-1*01|Homo sapiens||J-PHE|390..392|3 nt|1|||||3+0=3||
+ttc
+>M13551.1|TRBJ2-5*01|Homo sapiens||J-PHE|283..285|3 nt|1|||||3+0=3||
+ttc
+>M13552.1|TRBJ1-5*01|Homo sapiens||J-PHE|307..309|3 nt|1|||||3+0=3||
+ttt
+>M13553.1|TRBJ2-5*01|Homo sapiens||J-PHE|316..318|3 nt|1|||||3+0=3||
+ttc
+>M13554.1|TRBJ1-2*01|Homo sapiens||J-PHE|304..306|3 nt|1|||||3+0=3||
+ttc
+>M13576.1|TRBJ2-3*01|Homo sapiens||J-PHE|145..147|3 nt|1|||||3+0=3||
+ttt
+>M13836.1|TRBJ2-1*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttc
+>M13837.1|TRBJ2-3*01|Homo sapiens||J-PHE|368..370|3 nt|1|||||3+0=3||
+ttt
+>M13838.1|TRBJ2-1*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttc
+>M13839.1|TRBJ2-3*01|Homo sapiens||J-PHE|355..357|3 nt|1|||||3+0=3||
+ttt
+>M13840.1|TRBJ2-1*01|Homo sapiens||J-PHE|386..388|3 nt|1|||||3+0=3||
+ttc
+>M13842.1|TRBJ2-1*01|Homo sapiens||J-PHE|370..372|3 nt|1|||||3+0=3||
+ttc
+>M13843.1|TRBJ2-5*01|Homo sapiens||J-PHE|336..338|3 nt|1|||||3+0=3||
+ttc
+>M13844.1|TRBJ1-6*01|Homo sapiens||J-PHE|147..149|3 nt|1|||||3+0=3||
+ttt
+>M13845.1|TRBJ1-5*01|Homo sapiens||J-PHE|145..147|3 nt|1|||||3+0=3||
+ttt
+>M13846.1|TRBJ2-3*01|Homo sapiens||J-PHE|335..337|3 nt|1|||||3+0=3||
+ttt
+>M13847.1|TRBJ1-1*01|Homo sapiens||J-PHE|323..325|3 nt|1|||||3+0=3||
+ttt
+>M13848.1|TRBJ1-1*01|Homo sapiens||J-PHE|203..205|3 nt|1|||||3+0=3||
+ttt
+>M13849.1|TRBJ1-1*01|Homo sapiens||J-PHE|295..297|3 nt|1|||||3+0=3||
+ttt
+>M13850.1|TRBJ2-2*01|Homo sapiens||J-PHE|254..256|3 nt|1|||||3+0=3||
+ttt
+>M13852.1|TRBJ2-1*01|Homo sapiens||J-PHE|152..154|3 nt|1|||||3+0=3||
+ttc
+>M13854.1|TRBJ1-5*01|Homo sapiens||J-PHE|212..214|3 nt|1|||||3+0=3||
+ttt
+>M13855.1|TRBJ1-1*01|Homo sapiens||J-PHE|298..300|3 nt|1|||||3+0=3||
+ttt
+>M13856.1|TRBV4-3|Homo sapiens||J-PHE|153..155|3 nt|1|||||3+0=3||
+ttt
+>M13858.1||Homo sapiens||J-PHE|280..282|3 nt|1|||||3+0=3||
+ttt
+>M13859.1|TRBJ2-6*01|Homo sapiens||J-PHE|283..285|3 nt|1|||||3+0=3||
+ttc
+>M13860.1|TRBJ2-1*01|Homo sapiens||J-PHE|374..376|3 nt|1|||||3+0=3||
+ttc
+>M13861.1|TRBJ2-2*01|Homo sapiens||J-PHE|381..383|3 nt|1|||||3+0=3||
+ttt
+>M13863.1|TRBJ1-1*01|Homo sapiens||J-PHE|352..354|3 nt|1|||||3+0=3||
+ttt
+>M13864.1|TRBJ1-5*01|Homo sapiens||J-PHE|178..180|3 nt|1|||||3+0=3||
+ttt
+>M14158.1|TRBJ1-1*01|Homo sapiens||J-PHE|766..768|3 nt|1|||||3+0=3||
+ttt
+>M14158.1|TRBJ1-2*01|Homo sapiens||J-PHE|903..905|3 nt|1|||||3+0=3||
+ttc
+>M14158.1|TRBJ1-3*01|Homo sapiens||J-PHE|1518..1520|3 nt|1|||||3+0=3||
+ttt
+>M14158.1|TRBJ1-4*01|Homo sapiens||J-PHE|2115..2117|3 nt|1|||||3+0=3||
+ttt
+>M14158.1|TRBJ1-5*01|Homo sapiens||J-PHE|2387..2389|3 nt|1|||||3+0=3||
+ttt
+>M14158.1|TRBJ1-6*01|Homo sapiens||J-PHE|2881..2883|3 nt|1|||||3+0=3||
+ttt
+>M14159.1|TRBJ2-1*01|Homo sapiens||J-PHE|1248..1250|3 nt|1|||||3+0=3||
+ttc
+>M14159.1|TRBJ2-2*01|Homo sapiens||J-PHE|1444..1446|3 nt|1|||||3+0=3||
+ttt
+>M14159.1|TRBJ2-3*01|Homo sapiens||J-PHE|1729..1731|3 nt|1|||||3+0=3||
+ttt
+>M14159.1|TRBJ2-4*01|Homo sapiens||J-PHE|1881..1883|3 nt|1|||||3+0=3||
+ttc
+>M14159.1|TRBJ2-5*01|Homo sapiens||J-PHE|1998..2000|3 nt|1|||||3+0=3||
+ttc
+>M14159.1|TRBJ2-6*01|Homo sapiens||J-PHE|2121..2123|3 nt|1|||||3+0=3||
+ttc
+>M14159.1|TRBJ2-7*01|Homo sapiens||J-PHE|2332..2334|3 nt|1|||||3+0=3||
+ttc
+>M14260.1|TRBJ2-7*01|Homo sapiens||J-PHE|370..372|3 nt|1|||||3+0=3||
+ttc
+>M14261.1|TRBV7-9|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttt
+>M14262.1|TRBJ2-7*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttc
+>M14263.1|TRBJ1-1*01|Homo sapiens||J-PHE|358..360|3 nt|1|||||3+0=3||
+ttt
+>M14264.1|TRBV12-4|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttc
+>M14265.1|TRBJ1-1*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttt
+>M14266.1|TRBJ2-3*01|Homo sapiens||J-PHE|349..351|3 nt|1|||||3+0=3||
+ttt
+>M14267.1|TRBJ2-7*01|Homo sapiens||J-PHE|364..366|3 nt|1|||||3+0=3||
+ttc
+>M14268.1|TRBJ2-5*01|Homo sapiens||J-PHE|360..362|3 nt|1|||||3+0=3||
+ttc
+>M14269.1|TRBJ2-7*01|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttc
+>M14270.1|TRBJ1-4*01|Homo sapiens||J-PHE|376..378|3 nt|1|||||3+0=3||
+ttt
+>M14271.1|TRBV5-1|Homo sapiens||J-PHE|359..361|3 nt|1|||||3+0=3||
+ttc
+>M14299.1|TRBJ2-5*01|Homo sapiens||J-PHE|283..285|3 nt|1|||||3+0=3||
+ttc
+>M15221.1|TRBJ2-6*01|Homo sapiens||J-PHE|379..381|3 nt|1|||||3+0=3||
+ttc
+>M15222.1|TRBJ1-3*01|Homo sapiens||J-PHE|296..298|3 nt|1|||||3+0=3||
+ttt
+>M15223.1|TRBJ2-1*01|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttc
+>M15564.1|TRBJ1-5*01|Homo sapiens||J-PHE|400..402|3 nt|1|||||3+0=3||
+ttt
+>M16834.1|TRBV9|Homo sapiens||J-PHE|507..509|3 nt|1|||||3+0=3||
+ttc
+>M18461.1|TRBJ1-1*01|Homo sapiens||J-PHE|382..384|3 nt|1|||||3+0=3||
+ttt
+>M18462.1|TRBJ2-1*01|Homo sapiens||J-PHE|325..327|3 nt|1|||||3+0=3||
+ttc
+>M24089.1|TRBJ2-3*01|Homo sapiens||J-PHE|722..724|3 nt|1|||||3+0=3||
+ttt
+>M27380.1|TRBJ1-5*01|Homo sapiens||J-PHE|337..339|3 nt|1|||||3+0=3||
+ttt
+>M27381.1|TRBJ2-2*01|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttt
+>M27382.1|TRBJ2-5*01|Homo sapiens||J-PHE|361..363|3 nt|1|||||3+0=3||
+ttc
+>M27383.1|TRBJ2-1*01|Homo sapiens||J-PHE|376..378|3 nt|1|||||3+0=3||
+ttc
+>M27384.1|TRBJ2-7*01|Homo sapiens||J-PHE|349..351|3 nt|1|||||3+0=3||
+ttc
+>M27385.1|TRBJ2-1*01|Homo sapiens||J-PHE|358..360|3 nt|1|||||3+0=3||
+ttc
+>M27386.1|TRBJ2-7*01|Homo sapiens||J-PHE|322..324|3 nt|1|||||3+0=3||
+ttc
+>M27387.1|TRBJ1-5*01|Homo sapiens||J-PHE|337..339|3 nt|1|||||3+0=3||
+ttt
+>M27388.1|TRBJ2-1*01|Homo sapiens||J-PHE|370..372|3 nt|1|||||3+0=3||
+ttc
+>M27389.1|TRBJ2-1*01|Homo sapiens||J-PHE|394..396|3 nt|1|||||3+0=3||
+ttc
+>M27390.1|TRBJ1-6*01|Homo sapiens||J-PHE|388..390|3 nt|1|||||3+0=3||
+ttt
+>M28597.1||Homo sapiens||J-PHE|20..22|3 nt|1|||||3+0=3||
+ttc
+>M28598.1||Homo sapiens||J-PHE|124..126|3 nt|1|||||3+0=3||
+ttc
+>M31345.1|TRBJ1-5|Homo sapiens||J-PHE|38..40|3 nt|1|||||3+0=3||
+aaa
+>M31345.1|TRBJ2-1|Homo sapiens||J-PHE|71..73|3 nt|1|||||3+0=3||
+ttc
+>M31346.1|TRBJ2-1*01|Homo sapiens||J-PHE|71..73|3 nt|1|||||3+0=3||
+ttc
+>M64351.1|TRBJ1-5*01|Homo sapiens||J-PHE|394..396|3 nt|1|||||3+0=3||
+ttt
+>M64352.1|TRBJ1-5*01|Homo sapiens||J-PHE|439..441|3 nt|1|||||3+0=3||
+ttt
+>M73464.1|TRBJ2-3*01|Homo sapiens||J-PHE|405..407|3 nt|1|||||3+0=3||
+ttt
+>M73465.1|TRBJ2-7*01|Homo sapiens||J-PHE|418..420|3 nt|1|||||3+0=3||
+ttc
+>M77498.1|TRBJ1-5*01|Homo sapiens||J-PHE|409..411|3 nt|1|||||3+0=3||
+ttt
+>M77498.1|TRAJ29*01|Homo sapiens||J-PHE|811..813|3 nt|1|||||3+0=3||
+ttt
+>M81773.1|TRBJ1-2*01|Homo sapiens||J-PHE|429..431|3 nt|1|||||3+0=3||
+ttc
+>M86362.1|TRBJ1-2*01|Homo sapiens||J-PHE|513..515|3 nt|1|||||3+0=3||
+ttc
+>M97705.1|TRBJ1-5*01|Homo sapiens||J-PHE|421..423|3 nt|1|||||3+0=3||
+ttt
+>M97707.1|TRBJ1-6*02|Homo sapiens||J-PHE|435..437|3 nt|1|||||3+0=3||
+ttt
+>M97709.1|TRBJ2-7*01|Homo sapiens||J-PHE|502..504|3 nt|1|||||3+0=3||
+ttc
+>M97711.1|TRBJ2-7*01|Homo sapiens||J-PHE|448..450|3 nt|1|||||3+0=3||
+ttc
+>M97713.1|TRBJ2-7*01|Homo sapiens||J-PHE|381..383|3 nt|1|||||3+0=3||
+ttc
+>M97715.1|TRBJ2-7*01|Homo sapiens||J-PHE|401..403|3 nt|1|||||3+0=3||
+ttc
+>M97717.1|TRBJ2-1*01|Homo sapiens||J-PHE|386..388|3 nt|1|||||3+0=3||
+ttc
+>M97719.1|TRBJ2-7*01|Homo sapiens||J-PHE|413..415|3 nt|1|||||3+0=3||
+ttc
+>M97721.1|TRBJ1-2*01|Homo sapiens||J-PHE|383..385|3 nt|1|||||3+0=3||
+ttc
+>M97723.1|TRBJ2-1*01|Homo sapiens||J-PHE|431..433|3 nt|1|||||3+0=3||
+ttc
+>M97725.1|TRBJ2-3*01|Homo sapiens||J-PHE|364..366|3 nt|1|||||3+0=3||
+ttt
+>S48146.1|TRBJ2-7*01|Homo sapiens||J-PHE|199..201|3 nt|1|||||3+0=3||
+ttc
+>S60100.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttc
+>S60102.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttt
+>S60104.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttt
+>S60106.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttc
+>S69310.1|TRBJ2-1*01|Homo sapiens||J-PHE|325..327|3 nt|1|||||3+0=3||
+ttc
+>S77831.1|TRBJ1-4*01|Homo sapiens||J-PHE|222..224|3 nt|1|||||3+0=3||
+ttt
+>S79319.1|TRBJ1-4*01|Homo sapiens||J-PHE|217..219|3 nt|1|||||3+0=3||
+ttt
+>S81123.1||Homo sapiens||J-PHE|22..24|3 nt|1|||||3+0=3||
+ttt
+>S81124.1||Homo sapiens||J-PHE|19..21|3 nt|1|||||3+0=3||
+gtc
+>S81125.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81126.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttc
+>S81128.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttt
+>S81129.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81130.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81131.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81132.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81135.1||Homo sapiens||J-PHE|22..24|3 nt|1|||||3+0=3||
+ttt
+>S81137.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81138.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttc
+>S81139.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttc
+>S81140.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81141.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttt
+>S81143.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81145.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81148.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttt
+>S81151.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttt
+>S81152.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81154.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttc
+>S81155.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttc
+>S81156.1||Homo sapiens||J-PHE|16..18|3 nt|1|||||3+0=3||
+ttt
+>S81157.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81158.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttt
+>S81165.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttc
+>S81172.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttt
+>S81176.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttt
+>S81182.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttt
+>S81186.1||Homo sapiens||J-PHE|22..24|3 nt|1|||||3+0=3||
+ttc
+>S81188.1||Homo sapiens||J-PHE|22..24|3 nt|1|||||3+0=3||
+ttc
+>S81189.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttt
+>S81190.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttc
+>S81195.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81197.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81199.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81200.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttc
+>S81201.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttc
+>S81202.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttt
+>S81203.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttc
+>S81205.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttt
+>S81206.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttt
+>S81208.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>S81209.1||Homo sapiens||J-PHE|22..24|3 nt|1|||||3+0=3||
+ttc
+>S81210.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81217.1||Homo sapiens||J-PHE|22..24|3 nt|1|||||3+0=3||
+ttt
+>S81218.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttt
+>S81220.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttc
+>S81233.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81246.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttc
+>S81253.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttt
+>S81258.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttt
+>S81260.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>S81262.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>S81343.1||Homo sapiens||J-PHE|24..26|3 nt|1|||||3+0=3||
+ttc
+>S81344.1||Homo sapiens||J-PHE|27..29|3 nt|1|||||3+0=3||
+ttt
+>S81345.1||Homo sapiens||J-PHE|26..28|3 nt|1|||||3+0=3||
+ttt
+>S81354.1||Homo sapiens||J-PHE|22..24|3 nt|1|||||3+0=3||
+ttc
+>S81355.1||Homo sapiens||J-PHE|22..24|3 nt|1|||||3+0=3||
+ttt
+>S81356.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81357.1||Homo sapiens||J-PHE|26..28|3 nt|1|||||3+0=3||
+ttc
+>S81358.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81359.1||Homo sapiens||J-PHE|22..24|3 nt|1|||||3+0=3||
+ttt
+>S81360.1||Homo sapiens||J-PHE|22..24|3 nt|1|||||3+0=3||
+ttt
+>S81362.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttc
+>S81363.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttc
+>S81364.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81365.1||Homo sapiens||J-PHE|22..24|3 nt|1|||||3+0=3||
+ttc
+>S81366.1||Homo sapiens||J-PHE|22..24|3 nt|1|||||3+0=3||
+ttt
+>S81367.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81368.1||Homo sapiens||J-PHE|27..29|3 nt|1|||||3+0=3||
+ttt
+>S81369.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S81370.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttc
+>S81372.1||Homo sapiens||J-PHE|35..37|3 nt|1|||||3+0=3||
+ttc
+>S81374.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>S81376.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>S81378.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>S81379.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>S81380.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>S81382.1||Homo sapiens||J-PHE|39..41|3 nt|1|||||3+0=3||
+ttt
+>S81383.1||Homo sapiens||J-PHE|27..29|3 nt|1|||||3+0=3||
+ttc
+>S81385.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>S81386.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>S81388.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>S81390.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>S81391.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttc
+>S81392.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>S81394.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttc
+>S81395.1||Homo sapiens||J-PHE|41..43|3 nt|1|||||3+0=3||
+ttt
+>S81399.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>S81402.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttc
+>S81405.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>S81406.1||Homo sapiens||J-PHE|36..38|3 nt|1|||||3+0=3||
+ttc
+>S81412.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttc
+>S81414.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>S81416.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttc
+>S81418.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>S81420.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttt
+>S81422.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttc
+>S81424.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttc
+>S81425.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttc
+>S81427.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttt
+>S81432.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttc
+>S81442.1||Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>S81447.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>S81456.1||Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>S81460.1||Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>S81465.1||Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>S81467.1||Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>S81469.1||Homo sapiens||J-PHE|52..54|3 nt|1|||||3+0=3||
+ttt
+>S81474.1||Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>S81480.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>S81481.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>S81482.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>S81484.1||Homo sapiens||J-PHE|25..27|3 nt|1|||||3+0=3||
+ttt
+>S82065.1|TRBJ1-4*01|Homo sapiens||J-PHE|217..219|3 nt|1|||||3+0=3||
+ttt
+>S82067.1|TRBJ2-2*01|Homo sapiens||J-PHE|229..231|3 nt|1|||||3+0=3||
+ttt
+>U07133.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttt
+>U07134.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttc
+>U07135.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>U07136.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>U07137.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>U07138.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>U14013.1||Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>U14017.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttt
+>U14018.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>U14020.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttt
+>U14024.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttc
+>U14026.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttt
+>U14027.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>U14028.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>U14032.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>U14034.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>U14036.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttt
+>U14037.1||Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>U14040.1||Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttc
+>U14042.1||Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>U14044.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>U14045.1||Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttt
+>U14049.1||Homo sapiens||J-PHE|54..56|3 nt|1|||||3+0=3||
+ttt
+>U14051.1||Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>U14053.1||Homo sapiens||J-PHE|49..51|3 nt|1|||||3+0=3||
+ttt
+>U14056.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>U14058.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttc
+>U14059.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>U14063.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttt
+>U14065.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>U14067.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttc
+>U14069.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>U14071.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttt
+>U14073.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttc
+>U14075.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>U14077.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>U14078.1||Homo sapiens||J-PHE|46..48|3 nt|1|||||3+0=3||
+ttt
+>U14082.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>U14084.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>U14086.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>U14088.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttc
+>U14090.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>U14092.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttt
+>U14094.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttc
+>U14095.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttt
+>U14097.1||Homo sapiens||J-PHE|40..42|3 nt|1|||||3+0=3||
+ttc
+>U14098.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttc
+>U14099.1||Homo sapiens||J-PHE|31..33|3 nt|1|||||3+0=3||
+ttc
+>U39131.1|TRBJ2-1*01|Homo sapiens||J-PHE|208..210|3 nt|1|||||3+0=3||
+ttc
+>U39136.1|TRBJ1-6*02|Homo sapiens||J-PHE|214..216|3 nt|1|||||3+0=3||
+ttt
+>U50073.1|TRBJ2-7*01|Homo sapiens||J-PHE|394..396|3 nt|1|||||3+0=3||
+ttc
+>U51443.1|TRBJ1-2*01|Homo sapiens||J-PHE|376..378|3 nt|1|||||3+0=3||
+ttc
+>U51445.1|TRBJ1-2*01|Homo sapiens||J-PHE|364..366|3 nt|1|||||3+0=3||
+ttc
+>U51447.1|TRBJ1-5*01|Homo sapiens||J-PHE|322..324|3 nt|1|||||3+0=3||
+ttt
+>U66061.1|TRBJ1-1*01|Homo sapiens||J-PHE|188629..188631|3 nt|1|||||3+0=3||
+ttt
+>U66061.1|TRBJ1-2*01|Homo sapiens||J-PHE|188766..188768|3 nt|1|||||3+0=3||
+ttc
+>U66061.1|TRBJ1-3*01|Homo sapiens||J-PHE|189381..189383|3 nt|1|||||3+0=3||
+ttt
+>U66061.1|TRBJ1-4*01|Homo sapiens||J-PHE|189977..189979|3 nt|1|||||3+0=3||
+ttt
+>U66061.1|TRBJ1-5*01|Homo sapiens||J-PHE|190249..190251|3 nt|1|||||3+0=3||
+ttt
+>U66061.1|TRBJ1-6*02|Homo sapiens||J-PHE|190742..190744|3 nt|1|||||3+0=3||
+ttt
+>U66061.1|TRBJ2-1*01|Homo sapiens||J-PHE|198116..198118|3 nt|1|||||3+0=3||
+ttc
+>U66061.1|TRBJ2-2*01|Homo sapiens||J-PHE|198312..198314|3 nt|1|||||3+0=3||
+ttt
+>U66061.1|TRBJ2-3*01|Homo sapiens||J-PHE|198597..198599|3 nt|1|||||3+0=3||
+ttt
+>U66061.1|TRBJ2-4*01|Homo sapiens||J-PHE|198749..198751|3 nt|1|||||3+0=3||
+ttc
+>U66061.1|TRBJ2-5*01|Homo sapiens||J-PHE|198868..198870|3 nt|1|||||3+0=3||
+ttc
+>U66061.1|TRBJ2-6*01|Homo sapiens||J-PHE|198993..198995|3 nt|1|||||3+0=3||
+ttc
+>U66061.1|TRBJ2-7*01|Homo sapiens||J-PHE|199204..199206|3 nt|1|||||3+0=3||
+ttc
+>X00437.1|TRBJ1-2*01|Homo sapiens||J-PHE|413..415|3 nt|1|||||3+0=3||
+ttc
+>X00936.1|TRBJ1-1*01|Homo sapiens||J-PHE|766..768|3 nt|1|||||3+0=3||
+ttt
+>X00936.1|TRBJ1-2*01|Homo sapiens||J-PHE|903..905|3 nt|1|||||3+0=3||
+ttc
+>X01410.1|TRBJ2-3|Homo sapiens||J-PHE|27..29|3 nt|1|||||3+0=3||
+ttt
+>X01411.1|TRBJ2-5*01|Homo sapiens||J-PHE|136..138|3 nt|1|||||3+0=3||
+ttc
+>X01417.1|TRBJ1-2*01|Homo sapiens||J-PHE|256..258|3 nt|1|||||3+0=3||
+ttc
+>X02515.1|TRBJ1-2*01|Homo sapiens||J-PHE|151..153|3 nt|1|||||3+0=3||
+ttc
+>X02987.1|TRBJ2-1*01|Homo sapiens||J-PHE|819..821|3 nt|1|||||3+0=3||
+ttc
+>X02987.1|TRBJ2-2*01|Homo sapiens||J-PHE|1015..1017|3 nt|1|||||3+0=3||
+ttt
+>X02987.1|TRBJ2-3*01|Homo sapiens||J-PHE|1300..1302|3 nt|1|||||3+0=3||
+ttt
+>X02987.1|TRBJ2-4*01|Homo sapiens||J-PHE|1451..1453|3 nt|1|||||3+0=3||
+ttc
+>X02987.1|TRBJ2-5*01|Homo sapiens||J-PHE|1570..1572|3 nt|1|||||3+0=3||
+ttc
+>X02987.1|TRBJ2-6*01|Homo sapiens||J-PHE|1695..1697|3 nt|1|||||3+0=3||
+ttc
+>X04921.1|TRBJ1-1*01|Homo sapiens||J-PHE|370..372|3 nt|1|||||3+0=3||
+ttt
+>X04922.1|TRBJ1-1*01|Homo sapiens||J-PHE|114..116|3 nt|1|||||3+0=3||
+ttt
+>X04923.1||Homo sapiens||J-PHE|48..50|3 nt|1|||||3+0=3||
+ttc
+>X04924.1||Homo sapiens||J-PHE|64..66|3 nt|1|||||3+0=3||
+ttc
+>X04926.1|TRBJ2-3*01|Homo sapiens||J-PHE|262..264|3 nt|1|||||3+0=3||
+ttt
+>X04927.1|TRBJ2-2*01|Homo sapiens||J-PHE|364..366|3 nt|1|||||3+0=3||
+ttt
+>X04928.1||Homo sapiens||J-PHE|247..249|3 nt|1|||||3+0=3||
+ttc
+>X04930.1||Homo sapiens||J-PHE|55..57|3 nt|1|||||3+0=3||
+ttc
+>X04931.1|TRBJ2-5*01|Homo sapiens||J-PHE|259..261|3 nt|1|||||3+0=3||
+ttc
+>X04932.1||Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttc
+>X04933.1||Homo sapiens||J-PHE|262..264|3 nt|1|||||3+0=3||
+ttc
+>X04934.1|TRBV7-3|Homo sapiens||J-PHE|376..378|3 nt|1|||||3+0=3||
+ttt
+>X04935.1||Homo sapiens||J-PHE|247..249|3 nt|1|||||3+0=3||
+ttt
+>X51786.1||Homo sapiens||J-PHE|142..144|3 nt|1|||||3+0=3||
+ttc
+>X51787.1||Homo sapiens||J-PHE|166..168|3 nt|1|||||3+0=3||
+ttt
+>X51788.1||Homo sapiens||J-PHE|178..180|3 nt|1|||||3+0=3||
+ttc
+>X51789.1||Homo sapiens||J-PHE|124..126|3 nt|1|||||3+0=3||
+ttc
+>X51790.1||Homo sapiens||J-PHE|180..182|3 nt|1|||||3+0=3||
+ttt
+>X51791.1||Homo sapiens||J-PHE|155..157|3 nt|1|||||3+0=3||
+ttt
+>X51792.1||Homo sapiens||J-PHE|109..111|3 nt|1|||||3+0=3||
+ttc
+>X51793.1||Homo sapiens||J-PHE|130..132|3 nt|1|||||3+0=3||
+ttc
+>X51794.1||Homo sapiens||J-PHE|184..186|3 nt|1|||||3+0=3||
+ttt
+>X51795.1||Homo sapiens||J-PHE|178..180|3 nt|1|||||3+0=3||
+ttt
+>X56142.1|TRBV5-4|Homo sapiens||J-PHE|435..437|3 nt|1|||||3+0=3||
+ttc
+>X56665.1|TRBJ2-2*01|Homo sapiens||J-PHE|351..353|3 nt|1|||||3+0=3||
+ttt
+>X57535.1|TRBJ1-5*01|Homo sapiens||J-PHE|364..366|3 nt|1|||||3+0=3||
+ttt
+>X57536.1|TRBJ2-1*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttc
+>X58323.1|TRBJ1-1*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttt
+>X58324.1|TRBJ1-6*02|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttt
+>X58325.1|TRBJ1-5*01|Homo sapiens||J-PHE|340..342|3 nt|1|||||3+0=3||
+ttt
+>X58328.1|TRBJ2-7*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttc
+>X58329.1|TRBJ2-3*01|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttt
+>X58330.1|TRBJ2-1*01|Homo sapiens||J-PHE|364..366|3 nt|1|||||3+0=3||
+ttc
+>X60096.1|TRBJ2-3*01|Homo sapiens||J-PHE|370..372|3 nt|1|||||3+0=3||
+ttt
+>X61629.1|TRBJ1-1*01|Homo sapiens||J-PHE|379..381|3 nt|1|||||3+0=3||
+ttt
+>X62856.1|TRBJ1-5*01|Homo sapiens||J-PHE|363..365|3 nt|1|||||3+0=3||
+ttt
+>X63456.1|TRBJ1-2*01|Homo sapiens||J-PHE|377..379|3 nt|1|||||3+0=3||
+ttc
+>X64742.1|TRBJ2-7*01|Homo sapiens||J-PHE|348..350|3 nt|1|||||3+0=3||
+ttc
+>X68527.1|TRBJ2-7*01|Homo sapiens||J-PHE|583..585|3 nt|1|||||3+0=3||
+ttc
+>X74391.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>X74393.1||Homo sapiens||J-PHE|28..30|3 nt|1|||||3+0=3||
+ttt
+>X74395.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>X74397.1||Homo sapiens||J-PHE|43..45|3 nt|1|||||3+0=3||
+ttc
+>X74399.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>X74841.1|TRBJ2-1*01|Homo sapiens||J-PHE|515..517|3 nt|1|||||3+0=3||
+ttc
+>X74842.1|TRBJ1-2*01|Homo sapiens||J-PHE|506..508|3 nt|1|||||3+0=3||
+ttc
+>X74843.1|TRBJ2-3*01|Homo sapiens||J-PHE|446..448|3 nt|1|||||3+0=3||
+ttt
+>X74844.1|TRBJ2-3*01|Homo sapiens||J-PHE|415..417|3 nt|1|||||3+0=3||
+ttt
+>X74845.1|TRBJ2-7*01|Homo sapiens||J-PHE|334..336|3 nt|1|||||3+0=3||
+ttc
+>X74846.1|TRBJ1-5*01|Homo sapiens||J-PHE|379..381|3 nt|1|||||3+0=3||
+ttt
+>X74847.1|TRBJ2-3*01|Homo sapiens||J-PHE|329..331|3 nt|1|||||3+0=3||
+ttt
+>X74848.1|TRBJ2-5*01|Homo sapiens||J-PHE|411..413|3 nt|1|||||3+0=3||
+ttc
+>X74850.1|TRBJ2-3*01|Homo sapiens||J-PHE|413..415|3 nt|1|||||3+0=3||
+ttt
+>X74851.1|TRBJ1-5*01|Homo sapiens||J-PHE|453..455|3 nt|1|||||3+0=3||
+ttt
+>X74852.1|TRBJ1-2*01|Homo sapiens||J-PHE|388..390|3 nt|1|||||3+0=3||
+ttc
+>X74853.1|TRBJ2-1*01|Homo sapiens||J-PHE|447..449|3 nt|1|||||3+0=3||
+ttc
+>X74854.1|TRBJ2-5*01|Homo sapiens||J-PHE|403..405|3 nt|1|||||3+0=3||
+ttc
+>X84687.1|TRBJ2-5*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttc
+>X89753.1|TRBJ2-5*01|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttc
+>X89754.1|TRBJ2-5*01|Homo sapiens||J-PHE|424..426|3 nt|1|||||3+0=3||
+ttc
+>X92767.1|TRBJ1-4*01|Homo sapiens||J-PHE|117..119|3 nt|1|||||3+0=3||
+ttt
+>X92769.1|TRBJ1-4*01|Homo sapiens||J-PHE|120..122|3 nt|1|||||3+0=3||
+ttt
+>X92771.1|TRBJ2-3*01|Homo sapiens||J-PHE|115..117|3 nt|1|||||3+0=3||
+ttt
+>X92773.1|TRBJ1-4*01|Homo sapiens||J-PHE|167..169|3 nt|1|||||3+0=3||
+ttt
+>X92775.1|TRBJ2-7*01|Homo sapiens||J-PHE|109..111|3 nt|1|||||3+0=3||
+ttc
+>X92777.1|TRBJ2-7*01|Homo sapiens||J-PHE|112..114|3 nt|1|||||3+0=3||
+ttc
+>X92780.1|TRBJ1-4*01|Homo sapiens||J-PHE|142..144|3 nt|1|||||3+0=3||
+ttt
+>X92782.1|TRBJ1-1*01|Homo sapiens||J-PHE|109..111|3 nt|1|||||3+0=3||
+ttt
+>X92784.1|TRBJ1-2*01|Homo sapiens||J-PHE|142..144|3 nt|1|||||3+0=3||
+ttc
+>X92786.1|TRBJ2-1*01|Homo sapiens||J-PHE|109..111|3 nt|1|||||3+0=3||
+ttc
+>X92787.1|TRBJ2-1*01|Homo sapiens||J-PHE|109..111|3 nt|1|||||3+0=3||
+ttc
+>X92789.1|TRBJ2-3*01|Homo sapiens||J-PHE|173..175|3 nt|1|||||3+0=3||
+ttt
+>X92876.1|TRBJ1-4*01|Homo sapiens||J-PHE|109..111|3 nt|1|||||3+0=3||
+ttt
+>X92878.1|TRBJ2-7*01|Homo sapiens||J-PHE|160..162|3 nt|1|||||3+0=3||
+ttc
+>X92880.1|TRBJ2-7*01|Homo sapiens||J-PHE|112..114|3 nt|1|||||3+0=3||
+ttc
+>X92882.1|TRBJ1-1*01|Homo sapiens||J-PHE|430..432|3 nt|1|||||3+0=3||
+ttt
+>X92885.1|TRBJ1-2*01|Homo sapiens||J-PHE|142..144|3 nt|1|||||3+0=3||
+ttc
+>Y10199.1|TRBJ1-6*02|Homo sapiens||J-PHE|370..372|3 nt|1|||||3+0=3||
+ttt
+>Y10201.1|TRBJ2-2*01|Homo sapiens||J-PHE|370..372|3 nt|1|||||3+0=3||
+ttt
+>Y15203.1|TRBJ2-1*01|Homo sapiens||J-PHE|253..255|3 nt|1|||||3+0=3||
+ttc
+>Y16434.1|TRBJ1-6*02|Homo sapiens||J-PHE|367..369|3 nt|1|||||3+0=3||
+ttt
+>Z22967.1|TRBJ1-2*01|Homo sapiens||J-PHE|373..375|3 nt|1|||||3+0=3||
+ttc
+>Z23040.1||Homo sapiens||J-PHE|397..399|3 nt|1|||||3+0=3||
+ttc
+>Z23041.1||Homo sapiens||J-PHE|175..177|3 nt|1|||||3+0=3||
+ttt
+>Z23042.1||Homo sapiens||J-PHE|388..390|3 nt|1|||||3+0=3||
+ttt
+>Z23044.1|TRBV3-1|Homo sapiens||J-PHE|265..267|3 nt|1|||||3+0=3||
+ttt
+>Z23046.1||Homo sapiens||J-PHE|202..204|3 nt|1|||||3+0=3||
+ttc
+>Z26594.1|TRBJ2-7*01|Homo sapiens||J-PHE|364..366|3 nt|1|||||3+0=3||
+ttc
+>Z29580.1|TRBJ2-1*01|Homo sapiens||J-PHE|399..401|3 nt|1|||||3+0=3||
+ttc
+>Z29582.1|TRBJ1-2*01|Homo sapiens||J-PHE|381..383|3 nt|1|||||3+0=3||
+ttc
+>Z35670.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttt
+>Z35671.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttt
+>Z35672.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35673.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35674.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35675.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35676.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35677.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35678.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35679.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35681.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35682.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35683.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35685.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35687.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35688.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35689.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35690.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35693.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35694.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>Z35695.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35696.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35697.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35698.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>Z35699.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35700.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35701.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>Z35702.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35703.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35704.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35705.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35706.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35707.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35708.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35709.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35710.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35711.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttc
+>Z35712.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>Z35713.1||Homo sapiens||J-PHE|37..39|3 nt|1|||||3+0=3||
+ttt
+>Z35714.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>Z35715.1||Homo sapiens||J-PHE|34..36|3 nt|1|||||3+0=3||
+ttc
+>Z47369.1|TRBJ2-2*01|Homo sapiens||J-PHE|276..278|3 nt|1|||||3+0=3||
+ttt
+>Z77831.1|TRBJ2-5|Homo sapiens||J-PHE|109..111|3 nt|1|||||3+0=3||
+ttc
+>Z77833.1|TRBJ1-1|Homo sapiens||J-PHE|164..166|3 nt|1|||||3+0=3||
+ttt
+>Z77836.1|TRBJ2-3|Homo sapiens||J-PHE|139..141|3 nt|1|||||3+0=3||
+ttt
+>Z77838.1|TRBJ2-2|Homo sapiens||J-PHE|109..111|3 nt|1|||||3+0=3||
+ttt
+>Z77840.1|TRBJ1-1|Homo sapiens||J-PHE|112..114|3 nt|1|||||3+0=3||
+ttt
+>Z77841.1|TRBJ1-1|Homo sapiens||J-PHE|160..162|3 nt|1|||||3+0=3||
+ttt
+>Z77843.1|TRBJ1-5|Homo sapiens||J-PHE|148..150|3 nt|1|||||3+0=3||
+ttt
+>Z77845.1|TRBJ1-2|Homo sapiens||J-PHE|148..150|3 nt|1|||||3+0=3||
+ttc
+>Z77849.1|TRBJ2-3|Homo sapiens||J-PHE|157..159|3 nt|1|||||3+0=3||
+ttt
