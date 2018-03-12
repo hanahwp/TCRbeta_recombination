@@ -1,3 +1,0 @@
-1.'A00000' is IMGT/LIGM-DB accession number. Four accession numbers of each V, D, J, and C genes are serially aligned
-2. gene and allele names are serially written with semicolon in between
-3. combined sequence
